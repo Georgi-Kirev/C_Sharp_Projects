@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.exe
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.deps.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.runtimeconfig.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.AssemblyInfo.cs
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\refint\04.CarToGo.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.genruntimeconfig.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\04.CarToGo\obj\Debug\net8.0\ref\04.CarToGo.dll

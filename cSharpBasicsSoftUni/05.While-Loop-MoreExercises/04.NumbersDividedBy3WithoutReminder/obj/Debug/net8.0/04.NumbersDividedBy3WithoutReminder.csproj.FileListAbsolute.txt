@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\refint\04.NumbersDividedBy3WithoutReminder.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\04.NumbersDividedBy3WithoutReminder.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net8.0\ref\04.NumbersDividedBy3WithoutReminder.dll

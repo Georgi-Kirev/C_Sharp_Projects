@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\refint\03.Vacation.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\03.Vacation\obj\Debug\net8.0\ref\03.Vacation.dll

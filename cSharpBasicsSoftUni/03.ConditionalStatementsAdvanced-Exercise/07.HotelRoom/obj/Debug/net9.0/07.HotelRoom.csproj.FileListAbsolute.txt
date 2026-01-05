@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net9.0\07.HotelRoom.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net9.0\07.HotelRoom.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net9.0\07.HotelRoom.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net9.0\07.HotelRoom.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net9.0\07.HotelRoom.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\07.HotelRoom.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\07.HotelRoom.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\refint\07.HotelRoom.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\07.HotelRoom.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\07.HotelRoom.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net9.0\ref\07.HotelRoom.dll

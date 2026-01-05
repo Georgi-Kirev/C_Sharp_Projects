@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF90F7-84D3-4C0D-9E21-4D56E1715422}|03.WorldSnookerChampionship\\03.WorldSnookerChampionship.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\programingexams01\\03.worldsnookerchampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF90F7-84D3-4C0D-9E21-4D56E1715422}|03.WorldSnookerChampionship\\03.WorldSnookerChampionship.csproj|solutionrelative:03.worldsnookerchampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34A340E-4DCA-498C-A90B-7EE29E83B116}|03.Gymnastics\\03.Gymnastics.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\programingexams01\\03.gymnastics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34A340E-4DCA-498C-A90B-7EE29E83B116}|03.Gymnastics\\03.Gymnastics.csproj|solutionrelative:03.gymnastics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA99674-813B-4BA9-9910-8A8E52038393}|02.Skeleton\\02.Skeleton.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\programingexams01\\02.skeleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA99674-813B-4BA9-9910-8A8E52038393}|02.Skeleton\\02.Skeleton.csproj|solutionrelative:02.skeleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C476B73-ECD2-4E8E-BD37-DEBD37436BB1}|02.FootballResults\\02.FootballResults.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\programingexams01\\02.footballresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C476B73-ECD2-4E8E-BD37-DEBD37436BB1}|02.FootballResults\\02.FootballResults.csproj|solutionrelative:02.footballresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2EA2C2-85E1-4D3A-89FF-C571D5FFB817}|01.BasketballEquipment\\01.BasketballEquipment.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\programingexams01\\01.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2EA2C2-85E1-4D3A-89FF-C571D5FFB817}|01.BasketballEquipment\\01.BasketballEquipment.csproj|solutionrelative:01.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CBADF3-7786-41DD-BE87-51C065F30DD7}|01.Tennis Equipment\\01.TennisEquipment.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\programingexams01\\01.tennis equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CBADF3-7786-41DD-BE87-51C065F30DD7}|01.Tennis Equipment\\01.TennisEquipment.csproj|solutionrelative:01.tennis equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\03.WorldSnookerChampionship\\Program.cs",
+              "RelativeDocumentMoniker": "03.WorldSnookerChampionship\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\03.WorldSnookerChampionship\\Program.cs",
+              "RelativeToolTip": "03.WorldSnookerChampionship\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:58:25.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\03.Gymnastics\\Program.cs",
+              "RelativeDocumentMoniker": "03.Gymnastics\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\03.Gymnastics\\Program.cs",
+              "RelativeToolTip": "03.Gymnastics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:21:22.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\02.Skeleton\\Program.cs",
+              "RelativeDocumentMoniker": "02.Skeleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\02.Skeleton\\Program.cs",
+              "RelativeToolTip": "02.Skeleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:48:17.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\02.FootballResults\\Program.cs",
+              "RelativeDocumentMoniker": "02.FootballResults\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\02.FootballResults\\Program.cs",
+              "RelativeToolTip": "02.FootballResults\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:56:03.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\01.BasketballEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "01.BasketballEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\01.BasketballEquipment\\Program.cs",
+              "RelativeToolTip": "01.BasketballEquipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:34:40.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\01.Tennis Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "01.Tennis Equipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\ProgramingExams01\\01.Tennis Equipment\\Program.cs",
+              "RelativeToolTip": "01.Tennis Equipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:08:17.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

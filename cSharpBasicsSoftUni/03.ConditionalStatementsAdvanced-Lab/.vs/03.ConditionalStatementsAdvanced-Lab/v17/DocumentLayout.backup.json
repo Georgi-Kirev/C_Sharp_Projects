@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AF482B-29C7-4951-9133-79E6122910A8}|12.TradeCommissions\\12.TradeCommissions.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\12.tradecommissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AF482B-29C7-4951-9133-79E6122910A8}|12.TradeCommissions\\12.TradeCommissions.csproj|solutionrelative:12.tradecommissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1231AC87-6A4C-4AB5-AF70-B21591A3DD5C}|03.AnimalType\\03.AnimalType.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\03.animaltype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231AC87-6A4C-4AB5-AF70-B21591A3DD5C}|03.AnimalType\\03.AnimalType.csproj|solutionrelative:03.animaltype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BC3E62-7BD0-4CC3-B249-2E695AD842C1}|07.WorkingHours\\07.WorkingHours.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\07.workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BC3E62-7BD0-4CC3-B249-2E695AD842C1}|07.WorkingHours\\07.WorkingHours.csproj|solutionrelative:07.workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168DA996-AFE5-477A-9642-800D9B65F904}|08.CinemaTicket\\08.CinemaTicket.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\08.cinematicket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168DA996-AFE5-477A-9642-800D9B65F904}|08.CinemaTicket\\08.CinemaTicket.csproj|solutionrelative:08.cinematicket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D313D-9E78-425B-B58D-A8F7F9E60236}|09.FruitOrVegetable\\09.FruitOrVegetable.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\09.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D313D-9E78-425B-B58D-A8F7F9E60236}|09.FruitOrVegetable\\09.FruitOrVegetable.csproj|solutionrelative:09.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E7A331-DD0F-4B52-9A00-5617B93298E1}|10.InvalidNumber\\10.InvalidNumber.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\10.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E7A331-DD0F-4B52-9A00-5617B93298E1}|10.InvalidNumber\\10.InvalidNumber.csproj|solutionrelative:10.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295EF9CE-C3C3-4DF1-ADBF-29F0EFD9A170}|11.FruitShop\\11.FruitShop.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\11.fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295EF9CE-C3C3-4DF1-ADBF-29F0EFD9A170}|11.FruitShop\\11.FruitShop.csproj|solutionrelative:11.fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36931771-C494-4FF7-B253-0FFCFF052A2F}|06.NumberInRange\\06.NumberInRange.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36931771-C494-4FF7-B253-0FFCFF052A2F}|06.NumberInRange\\06.NumberInRange.csproj|solutionrelative:06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0636525E-F81A-4C4C-85A5-28A71B30801C}|02.WeekendorWorkingDay\\02.WeekendorWorkingDay.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\02.weekendorworkingday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0636525E-F81A-4C4C-85A5-28A71B30801C}|02.WeekendorWorkingDay\\02.WeekendorWorkingDay.csproj|solutionrelative:02.weekendorworkingday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCE8AA6-7435-4FCE-B603-26F5AA9958E1}|04.PersonalTitles\\04.PersonalTitles.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\04.personaltitles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCE8AA6-7435-4FCE-B603-26F5AA9958E1}|04.PersonalTitles\\04.PersonalTitles.csproj|solutionrelative:04.personaltitles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE3389E-0AFE-43DD-92DD-68D09F7E588C}|05.SmallShop\\05.SmallShop.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\05.smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE3389E-0AFE-43DD-92DD-68D09F7E588C}|05.SmallShop\\05.SmallShop.csproj|solutionrelative:05.smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87284E83-6330-43A7-8CDE-882346D468E5}|01.DayOfWeek\\01.DayOfWeek.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\03.conditionalstatementsadvanced-lab\\01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87284E83-6330-43A7-8CDE-882346D468E5}|01.DayOfWeek\\01.DayOfWeek.csproj|solutionrelative:01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\12.TradeCommissions\\Program.cs",
+              "RelativeDocumentMoniker": "12.TradeCommissions\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\12.TradeCommissions\\Program.cs",
+              "RelativeToolTip": "12.TradeCommissions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:35:31.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\11.FruitShop\\Program.cs",
+              "RelativeDocumentMoniker": "11.FruitShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\11.FruitShop\\Program.cs",
+              "RelativeToolTip": "11.FruitShop\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:02:04.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\10.InvalidNumber\\Program.cs",
+              "RelativeDocumentMoniker": "10.InvalidNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\10.InvalidNumber\\Program.cs",
+              "RelativeToolTip": "10.InvalidNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:48:03.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\09.FruitOrVegetable\\Program.cs",
+              "RelativeDocumentMoniker": "09.FruitOrVegetable\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\09.FruitOrVegetable\\Program.cs",
+              "RelativeToolTip": "09.FruitOrVegetable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:41:42.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\08.CinemaTicket\\Program.cs",
+              "RelativeDocumentMoniker": "08.CinemaTicket\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\08.CinemaTicket\\Program.cs",
+              "RelativeToolTip": "08.CinemaTicket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:36:09.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\07.WorkingHours\\Program.cs",
+              "RelativeDocumentMoniker": "07.WorkingHours\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\07.WorkingHours\\Program.cs",
+              "RelativeToolTip": "07.WorkingHours\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:39:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\06.NumberInRange\\Program.cs",
+              "RelativeDocumentMoniker": "06.NumberInRange\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\06.NumberInRange\\Program.cs",
+              "RelativeToolTip": "06.NumberInRange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:35:45.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\05.SmallShop\\Program.cs",
+              "RelativeDocumentMoniker": "05.SmallShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\05.SmallShop\\Program.cs",
+              "RelativeToolTip": "05.SmallShop\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:23:33.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\04.PersonalTitles\\Program.cs",
+              "RelativeDocumentMoniker": "04.PersonalTitles\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\04.PersonalTitles\\Program.cs",
+              "RelativeToolTip": "04.PersonalTitles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:18:27.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\03.AnimalType\\Program.cs",
+              "RelativeDocumentMoniker": "03.AnimalType\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\03.AnimalType\\Program.cs",
+              "RelativeToolTip": "03.AnimalType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:10:03.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendorWorkingDay\\Program.cs",
+              "RelativeDocumentMoniker": "02.WeekendorWorkingDay\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendorWorkingDay\\Program.cs",
+              "RelativeToolTip": "02.WeekendorWorkingDay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:03:57.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\01.DayOfWeek\\Program.cs",
+              "RelativeDocumentMoniker": "01.DayOfWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Lab\\01.DayOfWeek\\Program.cs",
+              "RelativeToolTip": "01.DayOfWeek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:58:39.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

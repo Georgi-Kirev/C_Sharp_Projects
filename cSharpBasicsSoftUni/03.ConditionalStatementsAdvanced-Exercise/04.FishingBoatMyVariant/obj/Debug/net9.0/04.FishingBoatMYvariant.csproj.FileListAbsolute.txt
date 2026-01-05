@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\bin\Debug\net9.0\04.FishingBoatMYvariant.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\bin\Debug\net9.0\04.FishingBoatMYvariant.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\bin\Debug\net9.0\04.FishingBoatMYvariant.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\bin\Debug\net9.0\04.FishingBoatMYvariant.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\bin\Debug\net9.0\04.FishingBoatMYvariant.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\04.FishingBoatMYvariant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\04.FishingBoatMYvariant.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\04.FishingBoatMYvariant.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\04.FishingBoatMYvariant.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\04.FishingBoatMYvariant.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\refint\04.FishingBoatMYvariant.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\04.FishingBoatMYvariant.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\04.FishingBoatMYvariant.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoatMyVariant\obj\Debug\net9.0\ref\04.FishingBoatMYvariant.dll

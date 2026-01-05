@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\refint\02.EqualSumsEvenOddPosition.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\ref\02.EqualSumsEvenOddPosition.dll

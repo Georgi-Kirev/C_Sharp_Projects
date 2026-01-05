@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\refint\04.CleverLily.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\04.CleverLily\obj\Debug\net8.0\ref\04.CleverLily.dll

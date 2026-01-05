@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\refint\07.MinNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\07.MinNumber\obj\Debug\net8.0\ref\07.MinNumber.dll

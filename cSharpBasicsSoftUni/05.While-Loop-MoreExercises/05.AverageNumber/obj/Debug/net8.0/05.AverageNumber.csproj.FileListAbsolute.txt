@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\refint\05.AverageNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\ref\05.AverageNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\bin\Debug\net8.0\06.Building.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\bin\Debug\net8.0\06.Building.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\bin\Debug\net8.0\06.Building.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\bin\Debug\net8.0\06.Building.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\bin\Debug\net8.0\06.Building.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\06.Building.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\06.Building.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\06.Building.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\06.Building.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\06.Building.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\refint\06.Building.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\06.Building.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\06.Building.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\06.Building\obj\Debug\net8.0\ref\06.Building.dll

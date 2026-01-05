@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\bin\Debug\net8.0\06.Bills.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\bin\Debug\net8.0\06.Bills.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\bin\Debug\net8.0\06.Bills.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\bin\Debug\net8.0\06.Bills.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\bin\Debug\net8.0\06.Bills.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\06.Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\06.Bills.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\06.Bills.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\06.Bills.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\06.Bills.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\refint\06.Bills.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\06.Bills.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\06.Bills.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\06.Bills\obj\Debug\net8.0\ref\06.Bills.dll

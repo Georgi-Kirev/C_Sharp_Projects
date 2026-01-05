@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\bin\Debug\net8.0\05.Coins.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\bin\Debug\net8.0\05.Coins.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\bin\Debug\net8.0\05.Coins.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\bin\Debug\net8.0\05.Coins.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\bin\Debug\net8.0\05.Coins.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\05.Coins.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\05.Coins.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\05.Coins.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\05.Coins.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\05.Coins.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\refint\05.Coins.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\05.Coins.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\05.Coins.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Exercise\05.Coins\obj\Debug\net8.0\ref\05.Coins.dll

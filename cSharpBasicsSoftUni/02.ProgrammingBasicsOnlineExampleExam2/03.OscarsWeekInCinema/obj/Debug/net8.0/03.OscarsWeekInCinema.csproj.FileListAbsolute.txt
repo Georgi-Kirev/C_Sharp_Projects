@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net8.0\03.OscarsWeekInCinema.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net8.0\03.OscarsWeekInCinema.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net8.0\03.OscarsWeekInCinema.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net8.0\03.OscarsWeekInCinema.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net8.0\03.OscarsWeekInCinema.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\03.OscarsWeekInCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\03.OscarsWeekInCinema.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\03.OscarsWeekInCinema.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\03.OscarsWeekInCinema.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\03.OscarsWeekInCinema.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\refint\03.OscarsWeekInCinema.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\03.OscarsWeekInCinema.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\03.OscarsWeekInCinema.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net8.0\ref\03.OscarsWeekInCinema.dll

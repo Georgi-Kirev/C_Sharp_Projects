@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net8.0\04.SumOfTwoNumbers.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net8.0\04.SumOfTwoNumbers.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net8.0\04.SumOfTwoNumbers.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net8.0\04.SumOfTwoNumbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net8.0\04.SumOfTwoNumbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\04.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\04.SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\04.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\04.SumOfTwoNumbers.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\04.SumOfTwoNumbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\refint\04.SumOfTwoNumbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\04.SumOfTwoNumbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\04.SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net8.0\ref\04.SumOfTwoNumbers.dll

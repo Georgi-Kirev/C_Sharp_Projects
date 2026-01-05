@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\bin\Debug\net9.0\01.TennisEquipment.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\bin\Debug\net9.0\01.TennisEquipment.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\bin\Debug\net9.0\01.TennisEquipment.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\bin\Debug\net9.0\01.TennisEquipment.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\bin\Debug\net9.0\01.TennisEquipment.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\01.TennisEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\01.TennisEquipment.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\01.TennisEquipment.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\01.TennisEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\01.TennisEquipment.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\refint\01.TennisEquipment.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\01.TennisEquipment.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\01.TennisEquipment.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\ProgramingExams01\01.Tennis Equipment\obj\Debug\net9.0\ref\01.TennisEquipment.dll

@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\bin\Debug\net9.0\06. Concatenate Data.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\bin\Debug\net9.0\06. Concatenate Data.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\bin\Debug\net9.0\06. Concatenate Data.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\bin\Debug\net9.0\06. Concatenate Data.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\bin\Debug\net9.0\06. Concatenate Data.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\06. Concatenate Data.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\06. Concatenate Data.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\refint\06. Concatenate Data.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\06. Concatenate Data.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\06. Concatenate Data.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\06. Concatenate Data\obj\Debug\net9.0\ref\06. Concatenate Data.dll

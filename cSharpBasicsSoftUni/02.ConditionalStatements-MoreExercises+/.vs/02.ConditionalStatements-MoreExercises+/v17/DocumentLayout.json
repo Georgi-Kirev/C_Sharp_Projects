@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5034A6-1E8B-4242-B65E-89109EE69B62}|08.FuelTank-Part2\\08.FuelTank-Part2.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\02.conditionalstatements-moreexercises\u002B\\08.fueltank-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5034A6-1E8B-4242-B65E-89109EE69B62}|08.FuelTank-Part2\\08.FuelTank-Part2.csproj|solutionrelative:08.fueltank-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430AF523-49B6-4421-B335-212F98BB613D}|07.FuelTank\\07.FuelTank.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\02.conditionalstatements-moreexercises\u002B\\07.fueltank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430AF523-49B6-4421-B335-212F98BB613D}|07.FuelTank\\07.FuelTank.csproj|solutionrelative:07.fueltank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73536341-A360-4930-A25D-84EB70A9F016}|06.FlowerShop\\06.FlowerShop.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\02.conditionalstatements-moreexercises\u002B\\06.flowershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73536341-A360-4930-A25D-84EB70A9F016}|06.FlowerShop\\06.FlowerShop.csproj|solutionrelative:06.flowershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8F87C4-2AD9-45D0-B559-B88D73BD847E}|05.Pets\\05.Pets.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\02.conditionalstatements-moreexercises\u002B\\05.pets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8F87C4-2AD9-45D0-B559-B88D73BD847E}|05.Pets\\05.Pets.csproj|solutionrelative:05.pets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0A4932-4CB3-4025-92F1-6D4F619179B0}|04.TransportPrice\\04.TransportPrice.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\02.conditionalstatements-moreexercises\u002B\\04.transportprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0A4932-4CB3-4025-92F1-6D4F619179B0}|04.TransportPrice\\04.TransportPrice.csproj|solutionrelative:04.transportprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499BCD0B-DDF4-4C61-B031-13A0A97D7BFB}|03.Harvest\\03.Harvest.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\02.conditionalstatements-moreexercises\u002B\\03.harvest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499BCD0B-DDF4-4C61-B031-13A0A97D7BFB}|03.Harvest\\03.Harvest.csproj|solutionrelative:03.harvest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959B69D2-F80D-47D0-A85D-634C0921294D}|02.SleepyTomCat\\02.SleepyTomCat.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\02.conditionalstatements-moreexercises\u002B\\02.sleepytomcat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959B69D2-F80D-47D0-A85D-634C0921294D}|02.SleepyTomCat\\02.SleepyTomCat.csproj|solutionrelative:02.sleepytomcat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A855F1CF-3D2B-4DED-A770-92F3D5B7D37E}|01.PipesInPool\\01.PipesInPool.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\02.conditionalstatements-moreexercises\u002B\\01.pipesinpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A855F1CF-3D2B-4DED-A770-92F3D5B7D37E}|01.PipesInPool\\01.PipesInPool.csproj|solutionrelative:01.pipesinpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\08.FuelTank-Part2\\Program.cs",
+              "RelativeDocumentMoniker": "08.FuelTank-Part2\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\08.FuelTank-Part2\\Program.cs",
+              "RelativeToolTip": "08.FuelTank-Part2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:04:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\07.FuelTank\\Program.cs",
+              "RelativeDocumentMoniker": "07.FuelTank\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\07.FuelTank\\Program.cs",
+              "RelativeToolTip": "07.FuelTank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:41:58.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\06.FlowerShop\\Program.cs",
+              "RelativeDocumentMoniker": "06.FlowerShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\06.FlowerShop\\Program.cs",
+              "RelativeToolTip": "06.FlowerShop\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:19:46.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\05.Pets\\Program.cs",
+              "RelativeDocumentMoniker": "05.Pets\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\05.Pets\\Program.cs",
+              "RelativeToolTip": "05.Pets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:03:34.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\04.TransportPrice\\Program.cs",
+              "RelativeDocumentMoniker": "04.TransportPrice\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\04.TransportPrice\\Program.cs",
+              "RelativeToolTip": "04.TransportPrice\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:04:06.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\03.Harvest\\Program.cs",
+              "RelativeDocumentMoniker": "03.Harvest\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\03.Harvest\\Program.cs",
+              "RelativeToolTip": "03.Harvest\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:01:28.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\02.SleepyTomCat\\Program.cs",
+              "RelativeDocumentMoniker": "02.SleepyTomCat\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\02.SleepyTomCat\\Program.cs",
+              "RelativeToolTip": "02.SleepyTomCat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:02:42.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\01.PipesInPool\\Program.cs",
+              "RelativeDocumentMoniker": "01.PipesInPool\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\02.ConditionalStatements-MoreExercises\u002B\\01.PipesInPool\\Program.cs",
+              "RelativeToolTip": "01.PipesInPool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:31:50.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520D2E8D-0CAA-4F16-93D6-57921B3D3972}|08.LunchBreak\\08.LunchBreak.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\02.conditionalstatements-exercise\\08.lunchbreak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D2E8D-0CAA-4F16-93D6-57921B3D3972}|08.LunchBreak\\08.LunchBreak.csproj|solutionrelative:08.lunchbreak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9E749-0625-4068-AA2B-41C85DBBBBB2}|07.Shopping\\07.Shopping.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\02.conditionalstatements-exercise\\07.shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A9E749-0625-4068-AA2B-41C85DBBBBB2}|07.Shopping\\07.Shopping.csproj|solutionrelative:07.shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE04D96-563B-4CB1-A312-41A576E18508}|06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\02.conditionalstatements-exercise\\06.worldswimmingrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE04D96-563B-4CB1-A312-41A576E18508}|06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj|solutionrelative:06.worldswimmingrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E736F4D-9013-4B11-B523-0F905BD44694}|05.GodzillavsKong\\05.GodzillavsKong.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\02.conditionalstatements-exercise\\05.godzillavskong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E736F4D-9013-4B11-B523-0F905BD44694}|05.GodzillavsKong\\05.GodzillavsKong.csproj|solutionrelative:05.godzillavskong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BE6EA0-C3C0-434C-BAC5-43E5628D281C}|04.ToyShop\\04.ToyShop.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\02.conditionalstatements-exercise\\04.toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BE6EA0-C3C0-434C-BAC5-43E5628D281C}|04.ToyShop\\04.ToyShop.csproj|solutionrelative:04.toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF23A1D-3FE9-4D5C-9512-F899B99857FD}|03.Time\u002B15Minutes\\03.Time\u002B15Minutes.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\02.conditionalstatements-exercise\\03.time\u002B15minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF23A1D-3FE9-4D5C-9512-F899B99857FD}|03.Time\u002B15Minutes\\03.Time\u002B15Minutes.csproj|solutionrelative:03.time\u002B15minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CCD067-FBD3-4260-985A-65EFF57214F6}|02.BonusScore\\02.BonusScore.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\02.conditionalstatements-exercise\\02.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CCD067-FBD3-4260-985A-65EFF57214F6}|02.BonusScore\\02.BonusScore.csproj|solutionrelative:02.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698578A5-707D-4C6D-9FBB-ECA413749AF1}|01.SumSeconds\\01.SumSeconds.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\02.conditionalstatements-exercise\\01.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698578A5-707D-4C6D-9FBB-ECA413749AF1}|01.SumSeconds\\01.SumSeconds.csproj|solutionrelative:01.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\08.LunchBreak\\Program.cs",
+              "RelativeDocumentMoniker": "08.LunchBreak\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\08.LunchBreak\\Program.cs",
+              "RelativeToolTip": "08.LunchBreak\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:08:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\Program.cs",
+              "RelativeDocumentMoniker": "07.Shopping\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\Program.cs",
+              "RelativeToolTip": "07.Shopping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:43:02.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\Program.cs",
+              "RelativeDocumentMoniker": "06.WorldSwimmingRecord\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\Program.cs",
+              "RelativeToolTip": "06.WorldSwimmingRecord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:19:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\05.GodzillavsKong\\Program.cs",
+              "RelativeDocumentMoniker": "05.GodzillavsKong\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\05.GodzillavsKong\\Program.cs",
+              "RelativeToolTip": "05.GodzillavsKong\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:48:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\04.ToyShop\\Program.cs",
+              "RelativeDocumentMoniker": "04.ToyShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\04.ToyShop\\Program.cs",
+              "RelativeToolTip": "04.ToyShop\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T06:02:39.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\03.Time\u002B15Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "03.Time\u002B15Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\03.Time\u002B15Minutes\\Program.cs",
+              "RelativeToolTip": "03.Time\u002B15Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:14:23.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\02.BonusScore\\Program.cs",
+              "RelativeDocumentMoniker": "02.BonusScore\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\02.BonusScore\\Program.cs",
+              "RelativeToolTip": "02.BonusScore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:57:59.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\01.SumSeconds\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumSeconds\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\01.SumSeconds\\Program.cs",
+              "RelativeToolTip": "01.SumSeconds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:42:09.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

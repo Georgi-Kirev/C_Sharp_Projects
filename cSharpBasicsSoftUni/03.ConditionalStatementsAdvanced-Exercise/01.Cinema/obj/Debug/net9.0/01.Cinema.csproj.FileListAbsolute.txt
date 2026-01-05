@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net9.0\01.Cinema.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net9.0\01.Cinema.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net9.0\01.Cinema.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net9.0\01.Cinema.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net9.0\01.Cinema.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\01.Cinema.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\01.Cinema.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\01.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\01.Cinema.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\refint\01.Cinema.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\01.Cinema.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\01.Cinema.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net9.0\ref\01.Cinema.dll

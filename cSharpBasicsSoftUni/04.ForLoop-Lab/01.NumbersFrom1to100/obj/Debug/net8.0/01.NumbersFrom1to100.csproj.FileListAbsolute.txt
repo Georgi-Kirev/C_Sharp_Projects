@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\bin\Debug\net8.0\01.NumbersFrom1to100.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\bin\Debug\net8.0\01.NumbersFrom1to100.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\bin\Debug\net8.0\01.NumbersFrom1to100.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\bin\Debug\net8.0\01.NumbersFrom1to100.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\bin\Debug\net8.0\01.NumbersFrom1to100.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\01.NumbersFrom1to100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\01.NumbersFrom1to100.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\01.NumbersFrom1to100.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\01.NumbersFrom1to100.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\01.NumbersFrom1to100.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\refint\01.NumbersFrom1to100.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\01.NumbersFrom1to100.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\01.NumbersFrom1to100.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\01.NumbersFrom1to100\obj\Debug\net8.0\ref\01.NumbersFrom1to100.dll

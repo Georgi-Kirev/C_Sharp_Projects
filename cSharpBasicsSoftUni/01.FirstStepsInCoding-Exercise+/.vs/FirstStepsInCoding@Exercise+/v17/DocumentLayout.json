@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD857B4C-C099-44FD-ACE8-0BF171CAC2AF}|10.WeatherForecast-Part2\\10.WeatherForecast-Part2.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\10.weatherforecast-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD857B4C-C099-44FD-ACE8-0BF171CAC2AF}|10.WeatherForecast-Part2\\10.WeatherForecast-Part2.csproj|solutionrelative:10.weatherforecast-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E55900C-64F1-4FAD-AC9B-0AD911BDD798}|09.WeatherForecast\\09.WeatherForecast.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\09.weatherforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E55900C-64F1-4FAD-AC9B-0AD911BDD798}|09.WeatherForecast\\09.WeatherForecast.csproj|solutionrelative:09.weatherforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C728EE80-5DC9-4791-A957-C83625A0738C}|08.CircleAreaAndPerimeter\\08.CircleAreaAndPerimeter.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\08.circleareaandperimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C728EE80-5DC9-4791-A957-C83625A0738C}|08.CircleAreaAndPerimeter\\08.CircleAreaAndPerimeter.csproj|solutionrelative:08.circleareaandperimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155F5E52-D2E5-42BD-BC2E-009C7EF56DEE}|07.HousePainting\\07.HousePainting.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\07.housepainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155F5E52-D2E5-42BD-BC2E-009C7EF56DEE}|07.HousePainting\\07.HousePainting.csproj|solutionrelative:07.housepainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514B0874-CEDD-43BE-83AD-47837408FDAC}|06.Fishland\\06.Fishland.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\06.fishland\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514B0874-CEDD-43BE-83AD-47837408FDAC}|06.Fishland\\06.Fishland.csproj|solutionrelative:06.fishland\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D272428B-BFF9-4A15-8D0C-32348EF95F9B}|05.TrainingLab\\05.TrainingLab.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\05.traininglab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D272428B-BFF9-4A15-8D0C-32348EF95F9B}|05.TrainingLab\\05.TrainingLab.csproj|solutionrelative:05.traininglab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6164AEA-BBF2-453C-B151-D7A2132B5194}|04.VegetableMarket\\04.VegetableMarket.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\04.vegetablemarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6164AEA-BBF2-453C-B151-D7A2132B5194}|04.VegetableMarket\\04.VegetableMarket.csproj|solutionrelative:04.vegetablemarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C34AF52-8FF6-433C-B0F0-0D7CB12488E2}|03.CelsiustoFahrenheit\\03.CelsiustoFahrenheit.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\03.celsiustofahrenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C34AF52-8FF6-433C-B0F0-0D7CB12488E2}|03.CelsiustoFahrenheit\\03.CelsiustoFahrenheit.csproj|solutionrelative:03.celsiustofahrenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE3947A-FE7B-4DDF-B2ED-AFC57A7C290F}|02.TriangleArea\\02.TriangleArea.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\02.trianglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE3947A-FE7B-4DDF-B2ED-AFC57A7C290F}|02.TriangleArea\\02.TriangleArea.csproj|solutionrelative:02.trianglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6DECF4-C648-4E2B-94D5-468B3A537B8F}|01.TrapeziodArea\\01.TrapeziodArea.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\firststepsincoding@exercise\u002B\\01.trapeziodarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6DECF4-C648-4E2B-94D5-468B3A537B8F}|01.TrapeziodArea\\01.TrapeziodArea.csproj|solutionrelative:01.trapeziodarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\10.WeatherForecast-Part2\\Program.cs",
+              "RelativeDocumentMoniker": "10.WeatherForecast-Part2\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\10.WeatherForecast-Part2\\Program.cs",
+              "RelativeToolTip": "10.WeatherForecast-Part2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:56:06.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\09.WeatherForecast\\Program.cs",
+              "RelativeDocumentMoniker": "09.WeatherForecast\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\09.WeatherForecast\\Program.cs",
+              "RelativeToolTip": "09.WeatherForecast\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:36:59.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\08.CircleAreaAndPerimeter\\Program.cs",
+              "RelativeDocumentMoniker": "08.CircleAreaAndPerimeter\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\08.CircleAreaAndPerimeter\\Program.cs",
+              "RelativeToolTip": "08.CircleAreaAndPerimeter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:25:25.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\07.HousePainting\\Program.cs",
+              "RelativeDocumentMoniker": "07.HousePainting\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\07.HousePainting\\Program.cs",
+              "RelativeToolTip": "07.HousePainting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:50:05.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\06.Fishland\\Program.cs",
+              "RelativeDocumentMoniker": "06.Fishland\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\06.Fishland\\Program.cs",
+              "RelativeToolTip": "06.Fishland\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:35:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\05.TrainingLab\\Program.cs",
+              "RelativeDocumentMoniker": "05.TrainingLab\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\05.TrainingLab\\Program.cs",
+              "RelativeToolTip": "05.TrainingLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:24:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\04.VegetableMarket\\Program.cs",
+              "RelativeDocumentMoniker": "04.VegetableMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\04.VegetableMarket\\Program.cs",
+              "RelativeToolTip": "04.VegetableMarket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:14:30.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\03.CelsiustoFahrenheit\\Program.cs",
+              "RelativeDocumentMoniker": "03.CelsiustoFahrenheit\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\03.CelsiustoFahrenheit\\Program.cs",
+              "RelativeToolTip": "03.CelsiustoFahrenheit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:09:12.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\02.TriangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "02.TriangleArea\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\02.TriangleArea\\Program.cs",
+              "RelativeToolTip": "02.TriangleArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:26:31.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\01.TrapeziodArea\\Program.cs",
+              "RelativeDocumentMoniker": "01.TrapeziodArea\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\FirstStepsInCoding@Exercise\u002B\\01.TrapeziodArea\\Program.cs",
+              "RelativeToolTip": "01.TrapeziodArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:14:26.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

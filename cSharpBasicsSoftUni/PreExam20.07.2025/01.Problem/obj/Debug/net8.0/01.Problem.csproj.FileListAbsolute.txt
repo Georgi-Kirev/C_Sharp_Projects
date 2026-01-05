@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\bin\Debug\net8.0\01.Problem.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\bin\Debug\net8.0\01.Problem.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\bin\Debug\net8.0\01.Problem.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\bin\Debug\net8.0\01.Problem.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\bin\Debug\net8.0\01.Problem.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\01.Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\01.Problem.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\01.Problem.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\01.Problem.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\01.Problem.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\01.Problem.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\refint\01.Problem.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\01.Problem.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\01.Problem.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\PreExam20.07.2025\01.Problem\obj\Debug\net8.0\ref\01.Problem.dll

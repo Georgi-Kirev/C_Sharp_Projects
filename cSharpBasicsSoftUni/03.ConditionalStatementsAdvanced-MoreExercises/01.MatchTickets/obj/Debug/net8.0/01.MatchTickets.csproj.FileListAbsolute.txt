@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.exe
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.deps.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.runtimeconfig.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.AssemblyInfo.cs
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\refint\01.MatchTickets.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.genruntimeconfig.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net8.0\ref\01.MatchTickets.dll

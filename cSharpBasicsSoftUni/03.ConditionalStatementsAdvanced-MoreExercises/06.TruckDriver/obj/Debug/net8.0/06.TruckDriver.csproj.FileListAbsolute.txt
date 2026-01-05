@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.exe
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.deps.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.runtimeconfig.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.AssemblyInfo.cs
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\refint\06.TruckDriver.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.genruntimeconfig.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\06.TruckDriver\obj\Debug\net8.0\ref\06.TruckDriver.dll

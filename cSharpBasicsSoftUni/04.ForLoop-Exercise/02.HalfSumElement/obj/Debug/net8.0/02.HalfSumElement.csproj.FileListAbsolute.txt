@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\refint\02.HalfSumElement.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Exercise\02.HalfSumElement\obj\Debug\net8.0\ref\02.HalfSumElement.dll

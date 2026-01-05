@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\bin\Debug\net8.0\04.CinemaVoucher.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\bin\Debug\net8.0\04.CinemaVoucher.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\bin\Debug\net8.0\04.CinemaVoucher.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\bin\Debug\net8.0\04.CinemaVoucher.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\bin\Debug\net8.0\04.CinemaVoucher.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\04.CinemaVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\04.CinemaVoucher.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\04.CinemaVoucher.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\04.CinemaVoucher.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\04.CinemaVoucher.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\refint\04.CinemaVoucher.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\04.CinemaVoucher.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\04.CinemaVoucher.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\02.ProgrammingBasicsOnlineExampleExam2\04.CinemaVoucher\obj\Debug\net8.0\ref\04.CinemaVoucher.dll

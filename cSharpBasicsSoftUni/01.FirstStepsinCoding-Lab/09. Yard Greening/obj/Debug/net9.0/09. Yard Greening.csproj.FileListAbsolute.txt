@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\bin\Debug\net9.0\09. Yard Greening.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\bin\Debug\net9.0\09. Yard Greening.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\bin\Debug\net9.0\09. Yard Greening.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\bin\Debug\net9.0\09. Yard Greening.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\bin\Debug\net9.0\09. Yard Greening.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\09. Yard Greening.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\09. Yard Greening.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\refint\09. Yard Greening.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\09. Yard Greening.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\09. Yard Greening.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\09. Yard Greening\obj\Debug\net9.0\ref\09. Yard Greening.dll

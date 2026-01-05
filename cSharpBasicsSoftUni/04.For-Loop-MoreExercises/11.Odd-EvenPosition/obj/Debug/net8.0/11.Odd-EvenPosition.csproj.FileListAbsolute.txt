@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\bin\Debug\net8.0\11.Odd-EvenPosition.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\bin\Debug\net8.0\11.Odd-EvenPosition.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\bin\Debug\net8.0\11.Odd-EvenPosition.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\bin\Debug\net8.0\11.Odd-EvenPosition.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\bin\Debug\net8.0\11.Odd-EvenPosition.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\11.Odd-EvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\11.Odd-EvenPosition.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\11.Odd-EvenPosition.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\11.Odd-EvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\11.Odd-EvenPosition.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\refint\11.Odd-EvenPosition.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\11.Odd-EvenPosition.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\11.Odd-EvenPosition.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.For-Loop-MoreExercises\11.Odd-EvenPosition\obj\Debug\net8.0\ref\11.Odd-EvenPosition.dll

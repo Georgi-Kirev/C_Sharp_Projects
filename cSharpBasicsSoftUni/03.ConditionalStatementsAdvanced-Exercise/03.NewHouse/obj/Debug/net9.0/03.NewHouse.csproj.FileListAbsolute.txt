@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net9.0\03.NewHouse.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net9.0\03.NewHouse.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net9.0\03.NewHouse.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net9.0\03.NewHouse.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net9.0\03.NewHouse.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\03.NewHouse.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\03.NewHouse.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\03.NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\03.NewHouse.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\refint\03.NewHouse.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\03.NewHouse.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\03.NewHouse.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net9.0\ref\03.NewHouse.dll

@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.exe
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.deps.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.runtimeconfig.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.AssemblyInfo.cs
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\refint\02.BikeRace.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.genruntimeconfig.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net8.0\ref\02.BikeRace.dll

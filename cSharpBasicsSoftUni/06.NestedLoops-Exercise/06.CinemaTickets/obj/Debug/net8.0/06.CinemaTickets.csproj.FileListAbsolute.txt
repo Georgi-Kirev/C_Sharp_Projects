@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net8.0\06.CinemaTickets.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net8.0\06.CinemaTickets.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net8.0\06.CinemaTickets.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net8.0\06.CinemaTickets.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net8.0\06.CinemaTickets.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\06.CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\06.CinemaTickets.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\06.CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\06.CinemaTickets.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\06.CinemaTickets.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\refint\06.CinemaTickets.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\06.CinemaTickets.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\06.CinemaTickets.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net8.0\ref\06.CinemaTickets.dll

@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\bin\Debug\net9.0\06. Repainting.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\bin\Debug\net9.0\06. Repainting.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\bin\Debug\net9.0\06. Repainting.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\bin\Debug\net9.0\06. Repainting.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\bin\Debug\net9.0\06. Repainting.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\06. Repainting.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\06. Repainting.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\06. Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\06. Repainting.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\refint\06. Repainting.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\06. Repainting.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\06. Repainting.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\06. Repainting\obj\Debug\net9.0\ref\06. Repainting.dll

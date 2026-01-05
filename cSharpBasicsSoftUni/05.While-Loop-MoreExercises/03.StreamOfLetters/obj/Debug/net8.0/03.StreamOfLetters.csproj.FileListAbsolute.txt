@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net8.0\03.StreamOfLetters.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net8.0\03.StreamOfLetters.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net8.0\03.StreamOfLetters.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net8.0\03.StreamOfLetters.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net8.0\03.StreamOfLetters.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\03.StreamOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\03.StreamOfLetters.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\03.StreamOfLetters.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\03.StreamOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\03.StreamOfLetters.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\03.StreamOfLetters.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\refint\03.StreamOfLetters.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\03.StreamOfLetters.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\03.StreamOfLetters.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net8.0\ref\03.StreamOfLetters.dll

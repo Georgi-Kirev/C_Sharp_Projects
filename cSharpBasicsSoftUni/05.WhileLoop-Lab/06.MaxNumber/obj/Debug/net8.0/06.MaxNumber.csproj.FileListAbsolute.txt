@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\refint\06.MaxNumber.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\06.MaxNumber\obj\Debug\net8.0\ref\06.MaxNumber.dll

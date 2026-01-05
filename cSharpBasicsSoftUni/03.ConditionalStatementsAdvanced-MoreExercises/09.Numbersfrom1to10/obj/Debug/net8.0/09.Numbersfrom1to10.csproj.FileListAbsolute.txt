@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\bin\Debug\net8.0\09.Numbersfrom1to10.exe
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\bin\Debug\net8.0\09.Numbersfrom1to10.deps.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\bin\Debug\net8.0\09.Numbersfrom1to10.runtimeconfig.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\bin\Debug\net8.0\09.Numbersfrom1to10.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\bin\Debug\net8.0\09.Numbersfrom1to10.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\09.Numbersfrom1to10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\09.Numbersfrom1to10.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\09.Numbersfrom1to10.AssemblyInfo.cs
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\09.Numbersfrom1to10.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\09.Numbersfrom1to10.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\refint\09.Numbersfrom1to10.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\09.Numbersfrom1to10.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\09.Numbersfrom1to10.genruntimeconfig.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\09.Numbersfrom1to10\obj\Debug\net8.0\ref\09.Numbersfrom1to10.dll

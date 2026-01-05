@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\bin\Debug\net9.0\07. Projects Creation.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\bin\Debug\net9.0\07. Projects Creation.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\bin\Debug\net9.0\07. Projects Creation.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\bin\Debug\net9.0\07. Projects Creation.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\bin\Debug\net9.0\07. Projects Creation.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\07. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\07. Projects Creation.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\07. Projects Creation.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\refint\07. Projects Creation.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\07. Projects Creation.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\07. Projects Creation.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\07. Projects Creation\obj\Debug\net9.0\ref\07. Projects Creation.dll

@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\bin\Debug\net9.0\05. Supplies for School.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\bin\Debug\net9.0\05. Supplies for School.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\bin\Debug\net9.0\05. Supplies for School.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\bin\Debug\net9.0\05. Supplies for School.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\bin\Debug\net9.0\05. Supplies for School.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\05. Supplies for School.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\05. Supplies for School.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\05. Supplies for School.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\05. Supplies for School.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\refint\05. Supplies for School.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\05. Supplies for School.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\05. Supplies for School.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\05. Supplies for School\obj\Debug\net9.0\ref\05. Supplies for School.dll

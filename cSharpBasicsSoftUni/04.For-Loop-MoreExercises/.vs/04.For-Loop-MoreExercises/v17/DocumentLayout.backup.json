@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0B5D05-FDF1-4CD0-B00B-47C2B9BD2A83}|04.Grades\\04.Grades.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\04.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0B5D05-FDF1-4CD0-B00B-47C2B9BD2A83}|04.Grades\\04.Grades.csproj|solutionrelative:04.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96644833-64DF-47AB-890F-ED759ED2D1CE}|05.GameOfIntervals\\05.GameOfIntervals.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\05.gameofintervals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96644833-64DF-47AB-890F-ED759ED2D1CE}|05.GameOfIntervals\\05.GameOfIntervals.csproj|solutionrelative:05.gameofintervals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE052B9B-03EA-4004-99BA-E8B4B6913FCB}|06.Bills\\06.Bills.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\06.bills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE052B9B-03EA-4004-99BA-E8B4B6913FCB}|06.Bills\\06.Bills.csproj|solutionrelative:06.bills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55C8B7A-20D5-4EE6-83A8-5DB033672442}|07.FootballLeague\\07.FootballLeague.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\07.footballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55C8B7A-20D5-4EE6-83A8-5DB033672442}|07.FootballLeague\\07.FootballLeague.csproj|solutionrelative:07.footballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA2874D-14CE-47E4-B6CA-5E068FDC5D66}|08.EqualPairs\\08.EqualPairs.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\08.equalpairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA2874D-14CE-47E4-B6CA-5E068FDC5D66}|08.EqualPairs\\08.EqualPairs.csproj|solutionrelative:08.equalpairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CA7C88-7F62-4F42-9A74-4C988FE2CDA9}|09.Clock\\09.Clock.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\09.clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CA7C88-7F62-4F42-9A74-4C988FE2CDA9}|09.Clock\\09.Clock.csproj|solutionrelative:09.clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EBA3D-9748-410E-89C9-5A71742DF2C2}|10.Clock-part2\\10.Clock-part2.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\10.clock-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EBA3D-9748-410E-89C9-5A71742DF2C2}|10.Clock-part2\\10.Clock-part2.csproj|solutionrelative:10.clock-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925EAEC-A62C-4ED1-9B22-AF5DA14C6B59}|11.Odd-EvenPosition\\11.Odd-EvenPosition.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\11.odd-evenposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925EAEC-A62C-4ED1-9B22-AF5DA14C6B59}|11.Odd-EvenPosition\\11.Odd-EvenPosition.csproj|solutionrelative:11.odd-evenposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B159EFE-6D92-4E43-93E9-FD542D377473}|03.Logistics\\03.Logistics.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\03.logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B159EFE-6D92-4E43-93E9-FD542D377473}|03.Logistics\\03.Logistics.csproj|solutionrelative:03.logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADB61B1-7346-410E-9907-DBA536E45795}|02.Hospital\\02.Hospital.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\02.hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADB61B1-7346-410E-9907-DBA536E45795}|02.Hospital\\02.Hospital.csproj|solutionrelative:02.hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F2B99-3D2A-4015-B190-3C9B698C3AA5}|01.BackToThePast\\01.BackToThePast.csproj|c:\\users\\georgi kirev\\desktop\\it all\\csharpbasicssoftuni\\04.for-loop-moreexercises\\01.backtothepast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680F2B99-3D2A-4015-B190-3C9B698C3AA5}|01.BackToThePast\\01.BackToThePast.csproj|solutionrelative:01.backtothepast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\11.Odd-EvenPosition\\Program.cs",
+              "RelativeDocumentMoniker": "11.Odd-EvenPosition\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\11.Odd-EvenPosition\\Program.cs",
+              "RelativeToolTip": "11.Odd-EvenPosition\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:49:34.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\10.Clock-part2\\Program.cs",
+              "RelativeDocumentMoniker": "10.Clock-part2\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\10.Clock-part2\\Program.cs",
+              "RelativeToolTip": "10.Clock-part2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:47:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\09.Clock\\Program.cs",
+              "RelativeDocumentMoniker": "09.Clock\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\09.Clock\\Program.cs",
+              "RelativeToolTip": "09.Clock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:42:29.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\08.EqualPairs\\Program.cs",
+              "RelativeDocumentMoniker": "08.EqualPairs\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\08.EqualPairs\\Program.cs",
+              "RelativeToolTip": "08.EqualPairs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:45:28.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\07.FootballLeague\\Program.cs",
+              "RelativeDocumentMoniker": "07.FootballLeague\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\07.FootballLeague\\Program.cs",
+              "RelativeToolTip": "07.FootballLeague\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:00:11.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\06.Bills\\Program.cs",
+              "RelativeDocumentMoniker": "06.Bills\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\06.Bills\\Program.cs",
+              "RelativeToolTip": "06.Bills\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:38:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\Program.cs",
+              "RelativeDocumentMoniker": "05.GameOfIntervals\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\Program.cs",
+              "RelativeToolTip": "05.GameOfIntervals\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:47:58.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\04.Grades\\Program.cs",
+              "RelativeDocumentMoniker": "04.Grades\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\04.Grades\\Program.cs",
+              "RelativeToolTip": "04.Grades\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:24:15.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\Program.cs",
+              "RelativeDocumentMoniker": "03.Logistics\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\Program.cs",
+              "RelativeToolTip": "03.Logistics\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:36:01.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\02.Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "02.Hospital\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\02.Hospital\\Program.cs",
+              "RelativeToolTip": "02.Hospital\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:54:54.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\01.BackToThePast\\Program.cs",
+              "RelativeDocumentMoniker": "01.BackToThePast\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\01.BackToThePast\\Program.cs",
+              "RelativeToolTip": "01.BackToThePast\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:05:54.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

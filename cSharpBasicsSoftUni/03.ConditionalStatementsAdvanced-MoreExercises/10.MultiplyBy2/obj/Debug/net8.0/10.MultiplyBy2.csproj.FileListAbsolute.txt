@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net8.0\10.MultiplyBy2.exe
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net8.0\10.MultiplyBy2.deps.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net8.0\10.MultiplyBy2.runtimeconfig.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net8.0\10.MultiplyBy2.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net8.0\10.MultiplyBy2.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\10.MultiplyBy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\10.MultiplyBy2.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\10.MultiplyBy2.AssemblyInfo.cs
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\10.MultiplyBy2.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\10.MultiplyBy2.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\refint\10.MultiplyBy2.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\10.MultiplyBy2.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\10.MultiplyBy2.genruntimeconfig.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net8.0\ref\10.MultiplyBy2.dll

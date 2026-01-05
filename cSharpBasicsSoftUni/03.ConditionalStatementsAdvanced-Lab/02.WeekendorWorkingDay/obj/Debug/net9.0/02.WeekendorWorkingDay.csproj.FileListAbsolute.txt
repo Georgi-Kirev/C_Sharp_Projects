@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\02.WeekendorWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\02.WeekendorWorkingDay.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\02.WeekendorWorkingDay.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\02.WeekendorWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net9.0\02.WeekendorWorkingDay.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net9.0\02.WeekendorWorkingDay.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net9.0\02.WeekendorWorkingDay.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net9.0\02.WeekendorWorkingDay.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net9.0\02.WeekendorWorkingDay.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\02.WeekendorWorkingDay.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\refint\02.WeekendorWorkingDay.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\02.WeekendorWorkingDay.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\02.WeekendorWorkingDay.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net9.0\ref\02.WeekendorWorkingDay.dll

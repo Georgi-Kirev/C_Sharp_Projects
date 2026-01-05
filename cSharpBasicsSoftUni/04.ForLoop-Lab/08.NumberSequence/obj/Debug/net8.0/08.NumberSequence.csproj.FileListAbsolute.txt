@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\refint\08.NumberSequence.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\04.ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\ref\08.NumberSequence.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\refint\01.Dishwasher.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net8.0\ref\01.Dishwasher.dll

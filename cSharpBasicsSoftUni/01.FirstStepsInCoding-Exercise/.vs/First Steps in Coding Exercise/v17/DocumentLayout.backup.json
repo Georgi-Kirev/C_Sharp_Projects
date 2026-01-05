@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C0F473-8986-4E74-B194-C37E13E4E4CA}|09. Fish Tank\\09. Fish Tank.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C0F473-8986-4E74-B194-C37E13E4E4CA}|09. Fish Tank\\09. Fish Tank.csproj|solutionrelative:09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29865C0-F0B3-4343-BB47-4DC9116A4B80}|08. Basketball Equipment\\08. Basketball Equipment.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29865C0-F0B3-4343-BB47-4DC9116A4B80}|08. Basketball Equipment\\08. Basketball Equipment.csproj|solutionrelative:08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310775B0-2633-4EE8-8883-C5676B86F0AB}|07. Food Delivery\\07. Food Delivery.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310775B0-2633-4EE8-8883-C5676B86F0AB}|07. Food Delivery\\07. Food Delivery.csproj|solutionrelative:07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76285A-FD1E-44CE-B910-8B0585D37421}|06. Repainting\\06. Repainting.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76285A-FD1E-44CE-B910-8B0585D37421}|06. Repainting\\06. Repainting.csproj|solutionrelative:06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7523578-68E7-4EAB-AA68-7C76A73BC9EA}|05. Supplies for School\\05. Supplies for School.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7523578-68E7-4EAB-AA68-7C76A73BC9EA}|05. Supplies for School\\05. Supplies for School.csproj|solutionrelative:05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09098B30-2259-4476-9F39-11A954CA9788}|04. Vacation Books List\\04. Vacation Books List.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\04. vacation books list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09098B30-2259-4476-9F39-11A954CA9788}|04. Vacation Books List\\04. Vacation Books List.csproj|solutionrelative:04. vacation books list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EAD22F-25A0-4CCE-8EBE-1162B734498D}|03. Deposit Calculator\\03. Deposit Calculator.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\03. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EAD22F-25A0-4CCE-8EBE-1162B734498D}|03. Deposit Calculator\\03. Deposit Calculator.csproj|solutionrelative:03. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BDFC28-71CE-4E02-B245-635CAE23A430}|02. Radians to Degrees\\02. Radians to Degrees.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\02. radians to degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BDFC28-71CE-4E02-B245-635CAE23A430}|02. Radians to Degrees\\02. Radians to Degrees.csproj|solutionrelative:02. radians to degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF0528-CA46-437F-B187-DA3C08DE55B3}|01. USD to BGN\\01. USD to BGN.csproj|c:\\users\\georgi kirev\\desktop\\c# basics softuni\\first steps in coding exercise\\01. usd to bgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FF0528-CA46-437F-B187-DA3C08DE55B3}|01. USD to BGN\\01. USD to BGN.csproj|solutionrelative:01. usd to bgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\09. Fish Tank\\Program.cs",
+              "RelativeDocumentMoniker": "09. Fish Tank\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\09. Fish Tank\\Program.cs*",
+              "RelativeToolTip": "09. Fish Tank\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:22:55.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\08. Basketball Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "08. Basketball Equipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\08. Basketball Equipment\\Program.cs",
+              "RelativeToolTip": "08. Basketball Equipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:58:06.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\07. Food Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "07. Food Delivery\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\07. Food Delivery\\Program.cs",
+              "RelativeToolTip": "07. Food Delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:41:27.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\06. Repainting\\Program.cs",
+              "RelativeDocumentMoniker": "06. Repainting\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\06. Repainting\\Program.cs",
+              "RelativeToolTip": "06. Repainting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:19:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\05. Supplies for School\\Program.cs",
+              "RelativeDocumentMoniker": "05. Supplies for School\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\05. Supplies for School\\Program.cs",
+              "RelativeToolTip": "05. Supplies for School\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:56:00.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\04. Vacation Books List\\Program.cs",
+              "RelativeDocumentMoniker": "04. Vacation Books List\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\04. Vacation Books List\\Program.cs",
+              "RelativeToolTip": "04. Vacation Books List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:49:29.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\03. Deposit Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "03. Deposit Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\03. Deposit Calculator\\Program.cs",
+              "RelativeToolTip": "03. Deposit Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:34:48.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\02. Radians to Degrees\\Program.cs",
+              "RelativeDocumentMoniker": "02. Radians to Degrees\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\02. Radians to Degrees\\Program.cs",
+              "RelativeToolTip": "02. Radians to Degrees\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:28:07.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\01. USD to BGN\\Program.cs",
+              "RelativeDocumentMoniker": "01. USD to BGN\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\First Steps in Coding Exercise\\01. USD to BGN\\Program.cs",
+              "RelativeToolTip": "01. USD to BGN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:24:55.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

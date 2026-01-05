@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\bin\Debug\net9.0\03. Deposit Calculator.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\bin\Debug\net9.0\03. Deposit Calculator.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\bin\Debug\net9.0\03. Deposit Calculator.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\bin\Debug\net9.0\03. Deposit Calculator.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\bin\Debug\net9.0\03. Deposit Calculator.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\03. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\03. Deposit Calculator.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\03. Deposit Calculator.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\refint\03. Deposit Calculator.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\03. Deposit Calculator.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\03. Deposit Calculator.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\03. Deposit Calculator\obj\Debug\net9.0\ref\03. Deposit Calculator.dll

@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net9.0\03.AnimalType.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net9.0\03.AnimalType.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net9.0\03.AnimalType.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net9.0\03.AnimalType.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net9.0\03.AnimalType.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\03.AnimalType.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\03.AnimalType.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\03.AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\03.AnimalType.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\refint\03.AnimalType.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\03.AnimalType.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\03.AnimalType.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net9.0\ref\03.AnimalType.dll

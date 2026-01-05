@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net9.0\02.SummerOutfit.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net9.0\02.SummerOutfit.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net9.0\02.SummerOutfit.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net9.0\02.SummerOutfit.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net9.0\02.SummerOutfit.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\02.SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\02.SummerOutfit.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\02.SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\02.SummerOutfit.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\refint\02.SummerOutfit.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\02.SummerOutfit.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\02.SummerOutfit.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net9.0\ref\02.SummerOutfit.dll

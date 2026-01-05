@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\bin\Debug\net9.0\03. Rectangle Area.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\bin\Debug\net9.0\03. Rectangle Area.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\bin\Debug\net9.0\03. Rectangle Area.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\bin\Debug\net9.0\03. Rectangle Area.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\bin\Debug\net9.0\03. Rectangle Area.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\03. Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\03. Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\03. Rectangle Area.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\03. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\03. Rectangle Area.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\refint\03. Rectangle Area.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\03. Rectangle Area.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\03. Rectangle Area.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\03. Rectangle Area\obj\Debug\net9.0\ref\03. Rectangle Area.dll

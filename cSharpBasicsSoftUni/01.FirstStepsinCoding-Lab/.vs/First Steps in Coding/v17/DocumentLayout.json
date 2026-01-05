@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA499EE6-B647-4714-9D9A-CFD0BAC15F42}|09. Yard Greening\\09. Yard Greening.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\09. yard greening\\program09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA499EE6-B647-4714-9D9A-CFD0BAC15F42}|09. Yard Greening\\09. Yard Greening.csproj|solutionrelative:09. yard greening\\program09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F589F4D8-8D0A-4B15-9FC8-1F012E80763A}|08. Pet Shop\\08. Pet Shop.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\08. pet shop\\program08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F589F4D8-8D0A-4B15-9FC8-1F012E80763A}|08. Pet Shop\\08. Pet Shop.csproj|solutionrelative:08. pet shop\\program08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130FB29E-F4BC-4F4D-8AAE-F450974A3261}|07. Projects Creation\\07. Projects Creation.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\07. projects creation\\program07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130FB29E-F4BC-4F4D-8AAE-F450974A3261}|07. Projects Creation\\07. Projects Creation.csproj|solutionrelative:07. projects creation\\program07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7973516C-F130-4C65-9A8E-56A67BB48791}|06. Concatenate Data\\06. Concatenate Data.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\06. concatenate data\\program06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7973516C-F130-4C65-9A8E-56A67BB48791}|06. Concatenate Data\\06. Concatenate Data.csproj|solutionrelative:06. concatenate data\\program06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159400B3-A8C4-4CFC-8B65-D04DBE0F4AFB}|05. Greeting by Name\\05. Greeting by Name.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\05. greeting by name\\program05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159400B3-A8C4-4CFC-8B65-D04DBE0F4AFB}|05. Greeting by Name\\05. Greeting by Name.csproj|solutionrelative:05. greeting by name\\program05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C8663-0CCB-40A2-909F-1AB7E4FDCE79}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\04. inches to centimeters\\program04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C8663-0CCB-40A2-909F-1AB7E4FDCE79}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|solutionrelative:04. inches to centimeters\\program04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D752908-4EFA-4411-8358-5F3496A302D7}|03. Rectangle Area\\03. Rectangle Area.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\03. rectangle area\\program03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D752908-4EFA-4411-8358-5F3496A302D7}|03. Rectangle Area\\03. Rectangle Area.csproj|solutionrelative:03. rectangle area\\program03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E53417-A792-4AD6-AC69-EB2F132B3207}|01.Hello SoftUni\\01.Hello SoftUni.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\01.hello softuni\\program01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E53417-A792-4AD6-AC69-EB2F132B3207}|01.Hello SoftUni\\01.Hello SoftUni.csproj|solutionrelative:01.hello softuni\\program01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6459FCC6-05D5-42BB-9644-D34DFCC0D287}|02.Numbers 1-10\\02.Numbers 1-10.csproj|c:\\users\\georgi kirev\\desktop\\csharpbasicssoftuni\\01.firststepsincoding-lab\\02.numbers 1-10\\program02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6459FCC6-05D5-42BB-9644-D34DFCC0D287}|02.Numbers 1-10\\02.Numbers 1-10.csproj|solutionrelative:02.numbers 1-10\\program02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program09.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\09. Yard Greening\\Program09.cs",
+              "RelativeDocumentMoniker": "09. Yard Greening\\Program09.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\09. Yard Greening\\Program09.cs",
+              "RelativeToolTip": "09. Yard Greening\\Program09.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:24:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program08.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\08. Pet Shop\\Program08.cs",
+              "RelativeDocumentMoniker": "08. Pet Shop\\Program08.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\08. Pet Shop\\Program08.cs",
+              "RelativeToolTip": "08. Pet Shop\\Program08.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:27:59.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program07.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\07. Projects Creation\\Program07.cs",
+              "RelativeDocumentMoniker": "07. Projects Creation\\Program07.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\07. Projects Creation\\Program07.cs",
+              "RelativeToolTip": "07. Projects Creation\\Program07.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:14:30.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program06.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\06. Concatenate Data\\Program06.cs",
+              "RelativeDocumentMoniker": "06. Concatenate Data\\Program06.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\06. Concatenate Data\\Program06.cs",
+              "RelativeToolTip": "06. Concatenate Data\\Program06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:19:09.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program05.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\05. Greeting by Name\\Program05.cs",
+              "RelativeDocumentMoniker": "05. Greeting by Name\\Program05.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\05. Greeting by Name\\Program05.cs",
+              "RelativeToolTip": "05. Greeting by Name\\Program05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:35:23.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program04.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\04. Inches to Centimeters\\Program04.cs",
+              "RelativeDocumentMoniker": "04. Inches to Centimeters\\Program04.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\04. Inches to Centimeters\\Program04.cs",
+              "RelativeToolTip": "04. Inches to Centimeters\\Program04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:20:30.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program03.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\03. Rectangle Area\\Program03.cs",
+              "RelativeDocumentMoniker": "03. Rectangle Area\\Program03.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\03. Rectangle Area\\Program03.cs",
+              "RelativeToolTip": "03. Rectangle Area\\Program03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:14:37.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program02.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\02.Numbers 1-10\\Program02.cs",
+              "RelativeDocumentMoniker": "02.Numbers 1-10\\Program02.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\02.Numbers 1-10\\Program02.cs",
+              "RelativeToolTip": "02.Numbers 1-10\\Program02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:01:05.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program01.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\01.Hello SoftUni\\Program01.cs",
+              "RelativeDocumentMoniker": "01.Hello SoftUni\\Program01.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\01.FirstStepsinCoding-Lab\\01.Hello SoftUni\\Program01.cs",
+              "RelativeToolTip": "01.Hello SoftUni\\Program01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:00:42.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

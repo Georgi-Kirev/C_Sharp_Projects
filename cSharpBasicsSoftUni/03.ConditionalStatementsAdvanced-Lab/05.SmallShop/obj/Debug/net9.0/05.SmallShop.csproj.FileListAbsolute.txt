@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net9.0\05.SmallShop.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net9.0\05.SmallShop.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net9.0\05.SmallShop.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net9.0\05.SmallShop.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net9.0\05.SmallShop.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\05.SmallShop.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\05.SmallShop.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\05.SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\05.SmallShop.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\refint\05.SmallShop.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\05.SmallShop.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\05.SmallShop.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net9.0\ref\05.SmallShop.dll

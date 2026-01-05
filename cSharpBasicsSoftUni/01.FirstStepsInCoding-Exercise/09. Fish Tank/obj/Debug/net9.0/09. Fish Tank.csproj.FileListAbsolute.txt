@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\bin\Debug\net9.0\09. Fish Tank.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\bin\Debug\net9.0\09. Fish Tank.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\bin\Debug\net9.0\09. Fish Tank.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\bin\Debug\net9.0\09. Fish Tank.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\bin\Debug\net9.0\09. Fish Tank.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\09. Fish Tank.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\09. Fish Tank.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\refint\09. Fish Tank.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\09. Fish Tank.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\09. Fish Tank.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding Exercise\09. Fish Tank\obj\Debug\net9.0\ref\09. Fish Tank.dll

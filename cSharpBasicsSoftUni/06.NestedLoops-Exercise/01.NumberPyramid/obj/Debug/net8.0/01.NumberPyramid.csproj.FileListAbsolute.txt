@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\refint\01.NumberPyramid.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\ref\01.NumberPyramid.dll

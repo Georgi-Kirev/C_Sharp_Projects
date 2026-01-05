@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\bin\Debug\net9.0\04. Inches to Centimeters.exe
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\bin\Debug\net9.0\04. Inches to Centimeters.deps.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\bin\Debug\net9.0\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\bin\Debug\net9.0\04. Inches to Centimeters.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\bin\Debug\net9.0\04. Inches to Centimeters.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\04. Inches to Centimeters.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\refint\04. Inches to Centimeters.dll
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\04. Inches to Centimeters.pdb
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\04. Inches to Centimeters.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\C# Basics SoftUni\First Steps in Coding\04. Inches to Centimeters\obj\Debug\net9.0\ref\04. Inches to Centimeters.dll

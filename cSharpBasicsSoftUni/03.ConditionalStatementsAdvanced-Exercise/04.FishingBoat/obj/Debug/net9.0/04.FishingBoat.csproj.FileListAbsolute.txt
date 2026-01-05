@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net9.0\04.FishingBoat.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net9.0\04.FishingBoat.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net9.0\04.FishingBoat.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net9.0\04.FishingBoat.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net9.0\04.FishingBoat.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\04.FishingBoat.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\04.FishingBoat.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\04.FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\04.FishingBoat.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\refint\04.FishingBoat.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\04.FishingBoat.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\04.FishingBoat.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net9.0\ref\04.FishingBoat.dll

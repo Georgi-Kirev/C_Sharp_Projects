@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\bin\Debug\net8.0\05.Vacation.exe
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\bin\Debug\net8.0\05.Vacation.deps.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\bin\Debug\net8.0\05.Vacation.runtimeconfig.json
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\bin\Debug\net8.0\05.Vacation.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\bin\Debug\net8.0\05.Vacation.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\05.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\05.Vacation.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\05.Vacation.AssemblyInfo.cs
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\05.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\05.Vacation.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\refint\05.Vacation.dll
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\05.Vacation.pdb
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\05.Vacation.genruntimeconfig.cache
+C:\Users\Georgi Kirev\source\repos\03.ConditionalStatementsAdvanced-MoreExercises\05.Vacation\obj\Debug\net8.0\ref\05.Vacation.dll

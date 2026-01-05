@@ -1,0 +1,14 @@
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net9.0\09.FruitOrVegetable.exe
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net9.0\09.FruitOrVegetable.deps.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net9.0\09.FruitOrVegetable.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net9.0\09.FruitOrVegetable.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net9.0\09.FruitOrVegetable.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\09.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\09.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\09.FruitOrVegetable.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\09.FruitOrVegetable.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\refint\09.FruitOrVegetable.dll
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\09.FruitOrVegetable.pdb
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\09.FruitOrVegetable.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\cSharpBasicsSoftUni\03.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net9.0\ref\09.FruitOrVegetable.dll

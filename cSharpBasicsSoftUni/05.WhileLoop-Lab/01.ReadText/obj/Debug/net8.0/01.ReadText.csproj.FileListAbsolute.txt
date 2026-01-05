@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.exe
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\refint\01.ReadText.dll
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\cSharpBasicsSoftUni\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\ref\01.ReadText.dll
