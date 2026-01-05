@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\bin\Debug\net8.0\06. Customer Info.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\bin\Debug\net8.0\06. Customer Info.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\bin\Debug\net8.0\06. Customer Info.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\bin\Debug\net8.0\06. Customer Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\bin\Debug\net8.0\06. Customer Info.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\06. Customer Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\06. Customer Info.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\06. Customer Info.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\06. Customer Info.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\06. Customer Info.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\06. Customer Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\refint\06. Customer Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\06. Customer Info.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\06. Customer Info.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\06. Customer Info\obj\Debug\net8.0\ref\06. Customer Info.dll

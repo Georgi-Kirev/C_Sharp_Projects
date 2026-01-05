@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\bin\Debug\net8.0\07. Person Info.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\bin\Debug\net8.0\07. Person Info.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\bin\Debug\net8.0\07. Person Info.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\bin\Debug\net8.0\07. Person Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\bin\Debug\net8.0\07. Person Info.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\07. Person Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\07. Person Info.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\07. Person Info.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\07. Person Info.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\07. Person Info.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\07. Person Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\refint\07. Person Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\07. Person Info.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\07. Person Info.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\07. Person Info\obj\Debug\net8.0\ref\07. Person Info.dll

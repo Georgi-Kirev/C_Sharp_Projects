@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\bin\Debug\net8.0\10. Calculate Speed.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\bin\Debug\net8.0\10. Calculate Speed.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\bin\Debug\net8.0\10. Calculate Speed.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\bin\Debug\net8.0\10. Calculate Speed.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\bin\Debug\net8.0\10. Calculate Speed.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\10. Calculate Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\10. Calculate Speed.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\10. Calculate Speed.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\10. Calculate Speed.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\10. Calculate Speed.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\10. Calculate Speed.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\refint\10. Calculate Speed.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\10. Calculate Speed.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\10. Calculate Speed.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\10. Calculate Speed\obj\Debug\net8.0\ref\10. Calculate Speed.dll

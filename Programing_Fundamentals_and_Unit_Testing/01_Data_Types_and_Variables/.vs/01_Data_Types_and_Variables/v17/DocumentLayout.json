@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7730B8F7-9BFD-42EF-B4EB-9B3A2109A05C}|10. Calculate Speed\\10. Calculate Speed.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\10. calculate speed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7730B8F7-9BFD-42EF-B4EB-9B3A2109A05C}|10. Calculate Speed\\10. Calculate Speed.csproj|solutionrelative:10. calculate speed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33651FCC-C740-4C2E-8A43-8695A175A8C0}|09. Days in Minutes\\09. Days in Minutes.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\09. days in minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33651FCC-C740-4C2E-8A43-8695A175A8C0}|09. Days in Minutes\\09. Days in Minutes.csproj|solutionrelative:09. days in minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C51A3A6-8A0C-4A4B-BDD8-6FF250641039}|08. Town Info\\08. Town Info.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\08. town info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C51A3A6-8A0C-4A4B-BDD8-6FF250641039}|08. Town Info\\08. Town Info.csproj|solutionrelative:08. town info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EEE98-204E-4895-B1DB-F4B6D3BB8D7C}|07. Person Info\\07. Person Info.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\07. person info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3EEE98-204E-4895-B1DB-F4B6D3BB8D7C}|07. Person Info\\07. Person Info.csproj|solutionrelative:07. person info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A0B971-D3FC-46AF-909B-68C7649D797E}|06. Customer Info\\06. Customer Info.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\06. customer info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A0B971-D3FC-46AF-909B-68C7649D797E}|06. Customer Info\\06. Customer Info.csproj|solutionrelative:06. customer info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DA7A25-B5F0-4A97-99FD-A2FC85592FB3}|05. Greeting\\05. Greeting.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\05. greeting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DA7A25-B5F0-4A97-99FD-A2FC85592FB3}|05. Greeting\\05. Greeting.csproj|solutionrelative:05. greeting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A63D30-F919-410B-901A-E715548569C7}|04. Calculations\\04. Calculations.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\04. calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A63D30-F919-410B-901A-E715548569C7}|04. Calculations\\04. Calculations.csproj|solutionrelative:04. calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24669C58-DA8D-43A1-A4B1-6410B1489EC5}|03. Name and Expression\\03. Name and Expression.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\03. name and expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24669C58-DA8D-43A1-A4B1-6410B1489EC5}|03. Name and Expression\\03. Name and Expression.csproj|solutionrelative:03. name and expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646B679B-5F27-476E-A6D9-A552D2D67C01}|02. Print 5x5\\02. Print 5x5.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\02. print 5x5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646B679B-5F27-476E-A6D9-A552D2D67C01}|02. Print 5x5\\02. Print 5x5.csproj|solutionrelative:02. print 5x5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FA52DD-0DCC-4AB8-9CF1-1D776DBBC27A}|01. Hello C#\\01. Hello C#.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\01_data_types_and_variables\\01. hello c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FA52DD-0DCC-4AB8-9CF1-1D776DBBC27A}|01. Hello C#\\01. Hello C#.csproj|solutionrelative:01. hello c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\10. Calculate Speed\\Program.cs",
+              "RelativeDocumentMoniker": "10. Calculate Speed\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\10. Calculate Speed\\Program.cs*",
+              "RelativeToolTip": "10. Calculate Speed\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:24:53.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\09. Days in Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "09. Days in Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\09. Days in Minutes\\Program.cs",
+              "RelativeToolTip": "09. Days in Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:22:36.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\08. Town Info\\Program.cs",
+              "RelativeDocumentMoniker": "08. Town Info\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\08. Town Info\\Program.cs",
+              "RelativeToolTip": "08. Town Info\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:19:57.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\07. Person Info\\Program.cs",
+              "RelativeDocumentMoniker": "07. Person Info\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\07. Person Info\\Program.cs",
+              "RelativeToolTip": "07. Person Info\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:16:49.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\06. Customer Info\\Program.cs",
+              "RelativeDocumentMoniker": "06. Customer Info\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\06. Customer Info\\Program.cs",
+              "RelativeToolTip": "06. Customer Info\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:13:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\05. Greeting\\Program.cs",
+              "RelativeDocumentMoniker": "05. Greeting\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\05. Greeting\\Program.cs",
+              "RelativeToolTip": "05. Greeting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:12:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\04. Calculations\\Program.cs",
+              "RelativeDocumentMoniker": "04. Calculations\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\04. Calculations\\Program.cs",
+              "RelativeToolTip": "04. Calculations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:08:52.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\03. Name and Expression\\Program.cs",
+              "RelativeDocumentMoniker": "03. Name and Expression\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\03. Name and Expression\\Program.cs",
+              "RelativeToolTip": "03. Name and Expression\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:07:32.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\02. Print 5x5\\Program.cs",
+              "RelativeDocumentMoniker": "02. Print 5x5\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\02. Print 5x5\\Program.cs",
+              "RelativeToolTip": "02. Print 5x5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:06:21.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\01. Hello C#\\Program.cs",
+              "RelativeDocumentMoniker": "01. Hello C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\01_Data_Types_and_Variables\\01. Hello C#\\Program.cs",
+              "RelativeToolTip": "01. Hello C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:00:41.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

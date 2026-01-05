@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\bin\Debug\net8.0\04. Calculations.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\bin\Debug\net8.0\04. Calculations.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\bin\Debug\net8.0\04. Calculations.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\bin\Debug\net8.0\04. Calculations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\bin\Debug\net8.0\04. Calculations.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\04. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\04. Calculations.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\04. Calculations.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\04. Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\04. Calculations.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\04. Calculations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\refint\04. Calculations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\04. Calculations.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\04. Calculations.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\04. Calculations\obj\Debug\net8.0\ref\04. Calculations.dll

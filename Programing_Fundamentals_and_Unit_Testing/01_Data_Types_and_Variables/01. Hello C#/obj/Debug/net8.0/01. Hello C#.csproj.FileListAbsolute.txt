@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\bin\Debug\net8.0\01. Hello C#.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\bin\Debug\net8.0\01. Hello C#.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\bin\Debug\net8.0\01. Hello C#.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\bin\Debug\net8.0\01. Hello C#.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\bin\Debug\net8.0\01. Hello C#.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\01. Hello C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\01. Hello C#.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\01. Hello C#.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\01. Hello C#.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\01. Hello C#.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\01. Hello C#.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\refint\01. Hello C#.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\01. Hello C#.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\01. Hello C#.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\01_Data_Types_and_Variables\01. Hello C#\obj\Debug\net8.0\ref\01. Hello C#.dll
