@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\bin\Debug\net8.0\03. Market.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\bin\Debug\net8.0\03. Market.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\bin\Debug\net8.0\03. Market.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\bin\Debug\net8.0\03. Market.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\bin\Debug\net8.0\03. Market.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\03. Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\03. Market.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\03. Market.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\03. Market.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\03. Market.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\03. Market.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\refint\03. Market.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\03. Market.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\03. Market.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\03. Market\obj\Debug\net8.0\ref\03. Market.dll

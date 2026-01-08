@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\refint\02. Four Operations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\02. Four Operations\obj\Debug\net8.0\ref\02. Four Operations.dll

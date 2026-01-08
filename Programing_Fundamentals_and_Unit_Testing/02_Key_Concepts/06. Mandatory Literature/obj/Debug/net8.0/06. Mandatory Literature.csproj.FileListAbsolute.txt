@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\bin\Debug\net8.0\06. Mandatory Literature.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\bin\Debug\net8.0\06. Mandatory Literature.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\bin\Debug\net8.0\06. Mandatory Literature.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\bin\Debug\net8.0\06. Mandatory Literature.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\bin\Debug\net8.0\06. Mandatory Literature.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\06. Mandatory Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\06. Mandatory Literature.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\06. Mandatory Literature.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\06. Mandatory Literature.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\06. Mandatory Literature.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\06. Mandatory Literature.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\refint\06. Mandatory Literature.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\06. Mandatory Literature.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\06. Mandatory Literature.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\06. Mandatory Literature\obj\Debug\net8.0\ref\06. Mandatory Literature.dll

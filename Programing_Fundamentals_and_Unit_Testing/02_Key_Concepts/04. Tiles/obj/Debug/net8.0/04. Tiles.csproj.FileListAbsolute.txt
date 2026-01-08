@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\bin\Debug\net8.0\04. Tiles.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\bin\Debug\net8.0\04. Tiles.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\bin\Debug\net8.0\04. Tiles.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\bin\Debug\net8.0\04. Tiles.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\bin\Debug\net8.0\04. Tiles.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\04. Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\04. Tiles.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\04. Tiles.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\04. Tiles.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\04. Tiles.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\04. Tiles.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\refint\04. Tiles.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\04. Tiles.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\04. Tiles.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\02_Key_Concepts\04. Tiles\obj\Debug\net8.0\ref\04. Tiles.dll

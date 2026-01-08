@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D003488-C0F4-4E67-9BBD-479F61FB9549}|07. Supplies for School\\07. Supplies for School.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\02_key_concepts\\07. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D003488-C0F4-4E67-9BBD-479F61FB9549}|07. Supplies for School\\07. Supplies for School.csproj|solutionrelative:07. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5603CF0E-8223-452E-873F-F7487F145B89}|06. Mandatory Literature\\06. Mandatory Literature.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\02_key_concepts\\06. mandatory literature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5603CF0E-8223-452E-873F-F7487F145B89}|06. Mandatory Literature\\06. Mandatory Literature.csproj|solutionrelative:06. mandatory literature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D6100-E43E-49F3-92F4-2E747B489117}|05. Deposit Calculator\\05. Deposit Calculator.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\02_key_concepts\\05. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2D6100-E43E-49F3-92F4-2E747B489117}|05. Deposit Calculator\\05. Deposit Calculator.csproj|solutionrelative:05. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF31F9E-93DB-445D-9AFB-2BD400882FA9}|04. Tiles\\04. Tiles.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\02_key_concepts\\04. tiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF31F9E-93DB-445D-9AFB-2BD400882FA9}|04. Tiles\\04. Tiles.csproj|solutionrelative:04. tiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5543A83-1011-42BA-B943-1C8E2F83EA36}|03. Market\\03. Market.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\02_key_concepts\\03. market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5543A83-1011-42BA-B943-1C8E2F83EA36}|03. Market\\03. Market.csproj|solutionrelative:03. market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41A817B-EF27-4106-B442-536D4872DDE0}|02. Four Operations\\02. Four Operations.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\02_key_concepts\\02. four operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41A817B-EF27-4106-B442-536D4872DDE0}|02. Four Operations\\02. Four Operations.csproj|solutionrelative:02. four operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572562CB-63E6-4A79-A05D-57167A8B2D80}|01. Convertor USD to EUR\\01. Convertor USD to EUR.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\02_key_concepts\\01. convertor usd to eur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572562CB-63E6-4A79-A05D-57167A8B2D80}|01. Convertor USD to EUR\\01. Convertor USD to EUR.csproj|solutionrelative:01. convertor usd to eur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\07. Supplies for School\\Program.cs",
+              "RelativeDocumentMoniker": "07. Supplies for School\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\07. Supplies for School\\Program.cs",
+              "RelativeToolTip": "07. Supplies for School\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:30:17.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\06. Mandatory Literature\\Program.cs",
+              "RelativeDocumentMoniker": "06. Mandatory Literature\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\06. Mandatory Literature\\Program.cs",
+              "RelativeToolTip": "06. Mandatory Literature\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:04:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\05. Deposit Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "05. Deposit Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\05. Deposit Calculator\\Program.cs",
+              "RelativeToolTip": "05. Deposit Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:51:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\04. Tiles\\Program.cs",
+              "RelativeDocumentMoniker": "04. Tiles\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\04. Tiles\\Program.cs",
+              "RelativeToolTip": "04. Tiles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:06:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\03. Market\\Program.cs",
+              "RelativeDocumentMoniker": "03. Market\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\03. Market\\Program.cs",
+              "RelativeToolTip": "03. Market\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:03:07.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\02. Four Operations\\Program.cs",
+              "RelativeDocumentMoniker": "02. Four Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\02. Four Operations\\Program.cs",
+              "RelativeToolTip": "02. Four Operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:53:19.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\01. Convertor USD to EUR\\Program.cs",
+              "RelativeDocumentMoniker": "01. Convertor USD to EUR\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\02_Key_Concepts\\01. Convertor USD to EUR\\Program.cs",
+              "RelativeToolTip": "01. Convertor USD to EUR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:50:13.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
