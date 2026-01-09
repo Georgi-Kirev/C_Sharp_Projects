@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B065D03D-89BD-4904-A57A-57F87F40B65D}|06. Aquarium\\06. Aquarium.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\03_data_types_variables\\06. aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B065D03D-89BD-4904-A57A-57F87F40B65D}|06. Aquarium\\06. Aquarium.csproj|solutionrelative:06. aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6485595A-073F-4439-912D-003C61085984}|05. Basketball Equip\\05. Basketball Equip.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\03_data_types_variables\\05. basketball equip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6485595A-073F-4439-912D-003C61085984}|05. Basketball Equip\\05. Basketball Equip.csproj|solutionrelative:05. basketball equip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C756D5D9-A350-43B0-9D5D-CD59B62D4DEB}|04. Food Delivery\\04. Food Delivery.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\03_data_types_variables\\04. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C756D5D9-A350-43B0-9D5D-CD59B62D4DEB}|04. Food Delivery\\04. Food Delivery.csproj|solutionrelative:04. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36BA31-3C7E-4B80-824E-6A7FEF441FF2}|03. Redecorating\\03. Redecorating.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\03_data_types_variables\\03. redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36BA31-3C7E-4B80-824E-6A7FEF441FF2}|03. Redecorating\\03. Redecorating.csproj|solutionrelative:03. redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C1092A-FF5F-4D22-B5B9-FC88E194EDF0}|02. Times\\02. Times.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\03_data_types_variables\\02. times\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C1092A-FF5F-4D22-B5B9-FC88E194EDF0}|02. Times\\02. Times.csproj|solutionrelative:02. times\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257B0AC9-F90D-4145-A3C1-81EF529E2D97}|01. Reversed Numbers\\01. Reversed Numbers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals_and_unit_testing\\03_data_types_variables\\01. reversed numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257B0AC9-F90D-4145-A3C1-81EF529E2D97}|01. Reversed Numbers\\01. Reversed Numbers.csproj|solutionrelative:01. reversed numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\06. Aquarium\\Program.cs",
+              "RelativeDocumentMoniker": "06. Aquarium\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\06. Aquarium\\Program.cs",
+              "RelativeToolTip": "06. Aquarium\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:16:01.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\05. Basketball Equip\\Program.cs",
+              "RelativeDocumentMoniker": "05. Basketball Equip\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\05. Basketball Equip\\Program.cs",
+              "RelativeToolTip": "05. Basketball Equip\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:04:26.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\04. Food Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "04. Food Delivery\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\04. Food Delivery\\Program.cs",
+              "RelativeToolTip": "04. Food Delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:34:44.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\03. Redecorating\\Program.cs",
+              "RelativeDocumentMoniker": "03. Redecorating\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\03. Redecorating\\Program.cs",
+              "RelativeToolTip": "03. Redecorating\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:25:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\02. Times\\Program.cs",
+              "RelativeDocumentMoniker": "02. Times\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\02. Times\\Program.cs",
+              "RelativeToolTip": "02. Times\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:17:13.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\01. Reversed Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Reversed Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\03_Data_Types_Variables\\01. Reversed Numbers\\Program.cs",
+              "RelativeToolTip": "01. Reversed Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:12:02.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

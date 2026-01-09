@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\bin\Debug\net8.0\02. Times.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\bin\Debug\net8.0\02. Times.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\bin\Debug\net8.0\02. Times.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\bin\Debug\net8.0\02. Times.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\bin\Debug\net8.0\02. Times.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\02. Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\02. Times.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\02. Times.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\02. Times.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\02. Times.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\02. Times.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\refint\02. Times.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\02. Times.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\02. Times.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\02. Times\obj\Debug\net8.0\ref\02. Times.dll

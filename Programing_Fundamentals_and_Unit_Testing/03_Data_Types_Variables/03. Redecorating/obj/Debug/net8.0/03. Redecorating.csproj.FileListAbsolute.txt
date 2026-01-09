@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\bin\Debug\net8.0\03. Redecorating.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\bin\Debug\net8.0\03. Redecorating.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\bin\Debug\net8.0\03. Redecorating.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\bin\Debug\net8.0\03. Redecorating.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\bin\Debug\net8.0\03. Redecorating.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\03. Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\03. Redecorating.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\03. Redecorating.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\03. Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\03. Redecorating.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\03. Redecorating.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\refint\03. Redecorating.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\03. Redecorating.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\03. Redecorating.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\03. Redecorating\obj\Debug\net8.0\ref\03. Redecorating.dll
