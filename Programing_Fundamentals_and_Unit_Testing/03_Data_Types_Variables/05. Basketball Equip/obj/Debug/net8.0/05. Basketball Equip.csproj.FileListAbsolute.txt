@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\bin\Debug\net8.0\05. Basketball Equip.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\bin\Debug\net8.0\05. Basketball Equip.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\bin\Debug\net8.0\05. Basketball Equip.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\bin\Debug\net8.0\05. Basketball Equip.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\bin\Debug\net8.0\05. Basketball Equip.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\05. Basketball Equip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\05. Basketball Equip.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\05. Basketball Equip.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\05. Basketball Equip.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\05. Basketball Equip.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\05. Basketball Equip.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\refint\05. Basketball Equip.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\05. Basketball Equip.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\05. Basketball Equip.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\03_Data_Types_Variables\05. Basketball Equip\obj\Debug\net8.0\ref\05. Basketball Equip.dll
