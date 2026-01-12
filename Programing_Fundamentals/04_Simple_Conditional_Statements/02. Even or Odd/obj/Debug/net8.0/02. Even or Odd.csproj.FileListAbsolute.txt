@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\bin\Debug\net8.0\02. Even or Odd.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\bin\Debug\net8.0\02. Even or Odd.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\bin\Debug\net8.0\02. Even or Odd.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\bin\Debug\net8.0\02. Even or Odd.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\bin\Debug\net8.0\02. Even or Odd.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\02. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\02. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\02. Even or Odd.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\02. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\02. Even or Odd.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\02. Even or Odd.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\refint\02. Even or Odd.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\02. Even or Odd.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\02. Even or Odd.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\02. Even or Odd\obj\Debug\net8.0\ref\02. Even or Odd.dll

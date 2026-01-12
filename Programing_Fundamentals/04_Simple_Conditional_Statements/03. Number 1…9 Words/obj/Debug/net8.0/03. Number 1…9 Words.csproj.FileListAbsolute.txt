@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\bin\Debug\net8.0\03. Number 1…9 Words.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\bin\Debug\net8.0\03. Number 1…9 Words.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\bin\Debug\net8.0\03. Number 1…9 Words.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\bin\Debug\net8.0\03. Number 1…9 Words.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\bin\Debug\net8.0\03. Number 1…9 Words.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\03. Number 1…9 Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\03. Number 1…9 Words.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\03. Number 1…9 Words.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\03. Number 1…9 Words.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\03. Number 1…9 Words.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\03. Number 1…9 Words.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\refint\03. Number 1…9 Words.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\03. Number 1…9 Words.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\03. Number 1…9 Words.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\03. Number 1…9 Words\obj\Debug\net8.0\ref\03. Number 1…9 Words.dll
