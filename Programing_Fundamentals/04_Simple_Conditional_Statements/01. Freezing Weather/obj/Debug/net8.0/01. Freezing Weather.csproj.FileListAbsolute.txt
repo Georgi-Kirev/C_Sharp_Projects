@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\bin\Debug\net8.0\01. Freezing Weather.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\bin\Debug\net8.0\01. Freezing Weather.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\bin\Debug\net8.0\01. Freezing Weather.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\bin\Debug\net8.0\01. Freezing Weather.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\bin\Debug\net8.0\01. Freezing Weather.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\01. Freezing Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\01. Freezing Weather.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\01. Freezing Weather.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\01. Freezing Weather.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\01. Freezing Weather.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\01. Freezing Weather.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\refint\01. Freezing Weather.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\01. Freezing Weather.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\01. Freezing Weather.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals_and_Unit_Testing\04_Simple_Conditional_Statements\01. Freezing Weather\obj\Debug\net8.0\ref\01. Freezing Weather.dll
