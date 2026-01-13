@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\05_Complex_Conditional_Statements\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{824B2C55-9A82-4A42-B76F-941EB9F071CE}|05. Invalid Number\\05. Invalid Number.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\05_complex_conditional_statements\\05. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824B2C55-9A82-4A42-B76F-941EB9F071CE}|05. Invalid Number\\05. Invalid Number.csproj|solutionrelative:05. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EE1DC54-E147-4092-87A3-857C5D9EAE26}|09. Cinema\\09. Cinema.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\05_complex_conditional_statements\\09. cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EE1DC54-E147-4092-87A3-857C5D9EAE26}|09. Cinema\\09. Cinema.csproj|solutionrelative:09. cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{615D949C-1BF0-40DB-8A09-0339BC4D713A}|06. Day Of Week\\06. Day Of Week.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\05_complex_conditional_statements\\06. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{615D949C-1BF0-40DB-8A09-0339BC4D713A}|06. Day Of Week\\06. Day Of Week.csproj|solutionrelative:06. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824B2C55-9A82-4A42-B76F-941EB9F071CE}|05. Invalid Number\\05. Invalid Number.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\05_complex_conditional_statements\\05. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824B2C55-9A82-4A42-B76F-941EB9F071CE}|05. Invalid Number\\05. Invalid Number.csproj|solutionrelative:05. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1D6B7BE-87A6-4EFF-85D9-252FB64793ED}|04. Food or Drink\\04. Food or Drink.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\05_complex_conditional_statements\\04. food or drink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\05_Complex_Conditional_Statements\\09. Cinema\\Program.cs",
               "RelativeDocumentMoniker": "09. Cinema\\Program.cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\05_Complex_Conditional_Statements\\08. Sorted Numbers\\Program.cs",
               "RelativeDocumentMoniker": "08. Sorted Numbers\\Program.cs",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "08. Sorted Numbers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T12:26:49.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T12:26:49.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\05_Complex_Conditional_Statements\\07. Vowel or Consonant\\Program.cs",
               "RelativeDocumentMoniker": "07. Vowel or Consonant\\Program.cs",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "07. Vowel or Consonant\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T12:20:43.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T12:20:43.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\05_Complex_Conditional_Statements\\06. Day Of Week\\Program.cs",
               "RelativeDocumentMoniker": "06. Day Of Week\\Program.cs",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "06. Day Of Week\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T12:10:59.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T12:10:59.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\05_Complex_Conditional_Statements\\05. Invalid Number\\Program.cs",
               "RelativeDocumentMoniker": "05. Invalid Number\\Program.cs",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "04. Food or Drink\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T10:37:27.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T10:37:27.031Z"
             },
             {
               "$type": "Document",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "03. Bonus Score\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T10:22:03.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T10:22:03.888Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,7 @@
               "RelativeToolTip": "02. Largest Number Out Of Three\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T09:47:05.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T09:47:05.02Z"
             },
             {
               "$type": "Document",
@@ -170,8 +164,7 @@
               "RelativeToolTip": "01. Marketplace\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T09:32:05.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T09:32:05.539Z"
             }
           ]
         }
