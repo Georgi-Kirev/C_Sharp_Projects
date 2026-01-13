@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\bin\Debug\net8.0\06. Boiling Water.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\bin\Debug\net8.0\06. Boiling Water.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\bin\Debug\net8.0\06. Boiling Water.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\bin\Debug\net8.0\06. Boiling Water.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\bin\Debug\net8.0\06. Boiling Water.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\06. Boiling Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\06. Boiling Water.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\06. Boiling Water.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\06. Boiling Water.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\06. Boiling Water.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\06. Boiling Water.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\refint\06. Boiling Water.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\06. Boiling Water.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\06. Boiling Water.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\06. Boiling Water\obj\Debug\net8.0\ref\06. Boiling Water.dll

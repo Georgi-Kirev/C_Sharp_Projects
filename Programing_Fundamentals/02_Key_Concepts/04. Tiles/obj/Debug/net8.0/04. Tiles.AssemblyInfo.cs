@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Tiles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9773b06ac6c6dd19081b433eef1df1d6f74d889")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e26081f4f2c38cdee1559e17fcb7d48ebaf797b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Tiles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Tiles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\bin\Debug\net8.0\03. Bonus Score.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\bin\Debug\net8.0\03. Bonus Score.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\bin\Debug\net8.0\03. Bonus Score.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\bin\Debug\net8.0\03. Bonus Score.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\bin\Debug\net8.0\03. Bonus Score.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\03. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\03. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\03. Bonus Score.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\03. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\03. Bonus Score.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\03. Bonus Score.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\refint\03. Bonus Score.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\03. Bonus Score.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\03. Bonus Score.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\03. Bonus Score\obj\Debug\net8.0\ref\03. Bonus Score.dll

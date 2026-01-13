@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\bin\Debug\net8.0\06. Day Of Week.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\bin\Debug\net8.0\06. Day Of Week.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\bin\Debug\net8.0\06. Day Of Week.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\bin\Debug\net8.0\06. Day Of Week.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\bin\Debug\net8.0\06. Day Of Week.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\06. Day Of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\06. Day Of Week.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\06. Day Of Week.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\06. Day Of Week.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\06. Day Of Week.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\06. Day Of Week.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\refint\06. Day Of Week.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\06. Day Of Week.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\06. Day Of Week.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\06. Day Of Week\obj\Debug\net8.0\ref\06. Day Of Week.dll

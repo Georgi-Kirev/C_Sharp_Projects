@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\bin\Debug\net8.0\07. Speed Info.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\bin\Debug\net8.0\07. Speed Info.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\bin\Debug\net8.0\07. Speed Info.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\bin\Debug\net8.0\07. Speed Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\bin\Debug\net8.0\07. Speed Info.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\07. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\07. Speed Info.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\07. Speed Info.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\07. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\07. Speed Info.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\07. Speed Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\refint\07. Speed Info.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\07. Speed Info.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\07. Speed Info.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\07. Speed Info\obj\Debug\net8.0\ref\07. Speed Info.dll

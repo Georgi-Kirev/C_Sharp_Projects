@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\04_Simple_Conditional_Statements\\01. Freezing Weather\\01. Freezing Weather.csproj",
+      "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\04_Simple_Conditional_Statements\\01. Freezing Weather\\01. Freezing Weather.csproj",
       "projectName": "01. Freezing Weather",
-      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\04_Simple_Conditional_Statements\\01. Freezing Weather\\01. Freezing Weather.csproj",
+      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\04_Simple_Conditional_Statements\\01. Freezing Weather\\01. Freezing Weather.csproj",
       "packagesPath": "C:\\Users\\Georgi Kirev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\04_Simple_Conditional_Statements\\01. Freezing Weather\\obj\\",
+      "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\04_Simple_Conditional_Statements\\01. Freezing Weather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

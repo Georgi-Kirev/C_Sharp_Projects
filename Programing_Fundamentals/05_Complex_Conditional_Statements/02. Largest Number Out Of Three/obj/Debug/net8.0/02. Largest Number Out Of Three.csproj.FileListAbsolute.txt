@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\bin\Debug\net8.0\02. Largest Number Out Of Three.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\bin\Debug\net8.0\02. Largest Number Out Of Three.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\bin\Debug\net8.0\02. Largest Number Out Of Three.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\bin\Debug\net8.0\02. Largest Number Out Of Three.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\bin\Debug\net8.0\02. Largest Number Out Of Three.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\02. Largest Number Out Of Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\02. Largest Number Out Of Three.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\02. Largest Number Out Of Three.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\02. Largest Number Out Of Three.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\02. Largest Number Out Of Three.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\02. Largest Number Out Of Three.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\refint\02. Largest Number Out Of Three.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\02. Largest Number Out Of Three.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\02. Largest Number Out Of Three.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\02. Largest Number Out Of Three\obj\Debug\net8.0\ref\02. Largest Number Out Of Three.dll

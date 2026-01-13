@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\bin\Debug\net8.0\09. Valid Triangle.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\bin\Debug\net8.0\09. Valid Triangle.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\bin\Debug\net8.0\09. Valid Triangle.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\bin\Debug\net8.0\09. Valid Triangle.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\bin\Debug\net8.0\09. Valid Triangle.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\09. Valid Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\09. Valid Triangle.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\09. Valid Triangle.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\09. Valid Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\09. Valid Triangle.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\09. Valid Triangle.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\refint\09. Valid Triangle.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\09. Valid Triangle.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\09. Valid Triangle.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\04_Simple_Conditional_Statements\09. Valid Triangle\obj\Debug\net8.0\ref\09. Valid Triangle.dll

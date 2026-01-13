@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Freezing Weather", "01. Freezing Weather\01. Freezing Weather.csproj", "{61470622-BF48-43D3-BC68-FC0E07AD826E}"
 EndProject
@@ -10,6 +10,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Number 1…9 Words", "03. Number 1…9 Words\03. Number 1…9 Words.csproj", "{4BAAC640-446D-41CE-9C42-61D3477DE160}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Greater Number", "04. Greater Number\04. Greater Number.csproj", "{1BC1FBBF-5E92-4038-A182-4E2B551BC6BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Guess the Password", "05. Guess the Password\05. Guess the Password.csproj", "{6D7B04F5-019C-4358-AB7B-48161BB7150B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Boiling Water", "06. Boiling Water\06. Boiling Water.csproj", "{7ED5C614-6795-407B-9D22-B7E88B8E74E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Speed Info", "07. Speed Info\07. Speed Info.csproj", "{F77A2F71-D087-4995-BFC9-4B530AE8D2AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Ticket Price", "08. Ticket Price\08. Ticket Price.csproj", "{4AD488E7-1612-4A46-A3D8-A859B19A6911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Valid Triangle", "09. Valid Triangle\09. Valid Triangle.csproj", "{B8579834-01BF-4D32-A84B-583D4B39D7D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{1BC1FBBF-5E92-4038-A182-4E2B551BC6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BC1FBBF-5E92-4038-A182-4E2B551BC6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BC1FBBF-5E92-4038-A182-4E2B551BC6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7B04F5-019C-4358-AB7B-48161BB7150B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7B04F5-019C-4358-AB7B-48161BB7150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7B04F5-019C-4358-AB7B-48161BB7150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7B04F5-019C-4358-AB7B-48161BB7150B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED5C614-6795-407B-9D22-B7E88B8E74E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED5C614-6795-407B-9D22-B7E88B8E74E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED5C614-6795-407B-9D22-B7E88B8E74E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED5C614-6795-407B-9D22-B7E88B8E74E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77A2F71-D087-4995-BFC9-4B530AE8D2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77A2F71-D087-4995-BFC9-4B530AE8D2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77A2F71-D087-4995-BFC9-4B530AE8D2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77A2F71-D087-4995-BFC9-4B530AE8D2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD488E7-1612-4A46-A3D8-A859B19A6911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD488E7-1612-4A46-A3D8-A859B19A6911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD488E7-1612-4A46-A3D8-A859B19A6911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD488E7-1612-4A46-A3D8-A859B19A6911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8579834-01BF-4D32-A84B-583D4B39D7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8579834-01BF-4D32-A84B-583D4B39D7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8579834-01BF-4D32-A84B-583D4B39D7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8579834-01BF-4D32-A84B-583D4B39D7D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
