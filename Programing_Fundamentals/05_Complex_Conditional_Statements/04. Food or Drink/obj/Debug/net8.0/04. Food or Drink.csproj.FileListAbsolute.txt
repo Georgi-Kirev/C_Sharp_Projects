@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\refint\04. Food or Drink.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\04. Food or Drink\obj\Debug\net8.0\ref\04. Food or Drink.dll

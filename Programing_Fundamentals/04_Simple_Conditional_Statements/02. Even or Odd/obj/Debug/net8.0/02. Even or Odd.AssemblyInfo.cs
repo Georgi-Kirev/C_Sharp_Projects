@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Even or Odd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cba0144982b7c03f55e725d3ac1683e772b78da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e26081f4f2c38cdee1559e17fcb7d48ebaf797b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Even or Odd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Even or Odd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

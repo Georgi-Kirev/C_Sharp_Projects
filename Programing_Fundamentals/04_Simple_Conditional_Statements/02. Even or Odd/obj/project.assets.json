@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\04_Simple_Conditional_Statements\\02. Even or Odd\\02. Even or Odd.csproj",
+      "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\04_Simple_Conditional_Statements\\02. Even or Odd\\02. Even or Odd.csproj",
       "projectName": "02. Even or Odd",
-      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\04_Simple_Conditional_Statements\\02. Even or Odd\\02. Even or Odd.csproj",
+      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\04_Simple_Conditional_Statements\\02. Even or Odd\\02. Even or Odd.csproj",
       "packagesPath": "C:\\Users\\Georgi Kirev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals_and_Unit_Testing\\04_Simple_Conditional_Statements\\02. Even or Odd\\obj\\",
+      "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\04_Simple_Conditional_Statements\\02. Even or Odd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

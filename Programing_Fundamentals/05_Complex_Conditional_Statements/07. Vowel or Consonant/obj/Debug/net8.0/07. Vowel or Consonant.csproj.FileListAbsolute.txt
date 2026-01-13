@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\07. Vowel or Consonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\07. Vowel or Consonant.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\07. Vowel or Consonant.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\07. Vowel or Consonant.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\07. Vowel or Consonant.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\bin\Debug\net8.0\07. Vowel or Consonant.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\bin\Debug\net8.0\07. Vowel or Consonant.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\bin\Debug\net8.0\07. Vowel or Consonant.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\bin\Debug\net8.0\07. Vowel or Consonant.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\bin\Debug\net8.0\07. Vowel or Consonant.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\07. Vowel or Consonant.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\refint\07. Vowel or Consonant.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\07. Vowel or Consonant.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\07. Vowel or Consonant.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\05_Complex_Conditional_Statements\07. Vowel or Consonant\obj\Debug\net8.0\ref\07. Vowel or Consonant.dll
