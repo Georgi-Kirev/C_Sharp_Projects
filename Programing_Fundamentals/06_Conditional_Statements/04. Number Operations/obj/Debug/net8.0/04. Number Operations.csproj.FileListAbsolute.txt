@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\04. Number Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\04. Number Operations.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\04. Number Operations.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\04. Number Operations.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\04. Number Operations.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\bin\Debug\net8.0\04. Number Operations.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\bin\Debug\net8.0\04. Number Operations.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\bin\Debug\net8.0\04. Number Operations.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\bin\Debug\net8.0\04. Number Operations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\bin\Debug\net8.0\04. Number Operations.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\04. Number Operations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\refint\04. Number Operations.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\04. Number Operations.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\04. Number Operations.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\04. Number Operations\obj\Debug\net8.0\ref\04. Number Operations.dll

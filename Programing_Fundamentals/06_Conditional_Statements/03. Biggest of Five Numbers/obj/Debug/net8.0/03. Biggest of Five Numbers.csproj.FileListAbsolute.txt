@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\bin\Debug\net8.0\03. Biggest of Five Numbers.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\bin\Debug\net8.0\03. Biggest of Five Numbers.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\bin\Debug\net8.0\03. Biggest of Five Numbers.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\bin\Debug\net8.0\03. Biggest of Five Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\bin\Debug\net8.0\03. Biggest of Five Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\03. Biggest of Five Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\03. Biggest of Five Numbers.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\03. Biggest of Five Numbers.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\03. Biggest of Five Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\03. Biggest of Five Numbers.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\03. Biggest of Five Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\refint\03. Biggest of Five Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\03. Biggest of Five Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\03. Biggest of Five Numbers.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\03. Biggest of Five Numbers\obj\Debug\net8.0\ref\03. Biggest of Five Numbers.dll

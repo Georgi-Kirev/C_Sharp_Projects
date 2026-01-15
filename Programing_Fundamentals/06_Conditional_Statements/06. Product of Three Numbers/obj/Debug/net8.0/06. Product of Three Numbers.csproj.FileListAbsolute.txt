@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\refint\06. Product of Three Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\06. Product of Three Numbers\obj\Debug\net8.0\ref\06. Product of Three Numbers.dll
