@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\refint\05. Vacation Expenses.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\06_Conditional_Statements\05. Vacation Expenses\obj\Debug\net8.0\ref\05. Vacation Expenses.dll
