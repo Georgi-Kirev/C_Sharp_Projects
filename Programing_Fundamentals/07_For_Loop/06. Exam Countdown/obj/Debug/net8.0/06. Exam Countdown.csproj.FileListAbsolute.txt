@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\bin\Debug\net8.0\06. Exam Countdown.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\bin\Debug\net8.0\06. Exam Countdown.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\bin\Debug\net8.0\06. Exam Countdown.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\bin\Debug\net8.0\06. Exam Countdown.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\bin\Debug\net8.0\06. Exam Countdown.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\06. Exam Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\06. Exam Countdown.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\06. Exam Countdown.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\06. Exam Countdown.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\06. Exam Countdown.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\06. Exam Countdown.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\refint\06. Exam Countdown.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\06. Exam Countdown.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\06. Exam Countdown.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\06. Exam Countdown\obj\Debug\net8.0\ref\06. Exam Countdown.dll

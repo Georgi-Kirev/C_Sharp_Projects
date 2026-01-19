@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\refint\04. Numbers Ending in 7.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\04. Numbers Ending in 7\obj\Debug\net8.0\ref\04. Numbers Ending in 7.dll
