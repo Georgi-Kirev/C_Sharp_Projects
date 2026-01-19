@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFA4CDE-31E2-487A-A2C8-9F952771CA0E}|07. Latin Letters\\07. Latin Letters.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\07_for_loop\\07. latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFA4CDE-31E2-487A-A2C8-9F952771CA0E}|07. Latin Letters\\07. Latin Letters.csproj|solutionrelative:07. latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5501F7-E2B7-4D5A-B0CC-314583F3C730}|06. Exam Countdown\\06. Exam Countdown.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\07_for_loop\\06. exam countdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5501F7-E2B7-4D5A-B0CC-314583F3C730}|06. Exam Countdown\\06. Exam Countdown.csproj|solutionrelative:06. exam countdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4265789-FD12-4C2B-B4FE-1F4951CFA037}|05. Numbers From 1 to N over 3\\05. Numbers From 1 to N over 3.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\07_for_loop\\05. numbers from 1 to n over 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4265789-FD12-4C2B-B4FE-1F4951CFA037}|05. Numbers From 1 to N over 3\\05. Numbers From 1 to N over 3.csproj|solutionrelative:05. numbers from 1 to n over 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F04C1F4-38F9-40AA-BDAF-E9A01E2A6E90}|04. Numbers Ending in 7\\04. Numbers Ending in 7.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\07_for_loop\\04. numbers ending in 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F04C1F4-38F9-40AA-BDAF-E9A01E2A6E90}|04. Numbers Ending in 7\\04. Numbers Ending in 7.csproj|solutionrelative:04. numbers ending in 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880C791F-13CE-4497-9BD9-C284890B3AA0}|03. Sum Numbers\\03. Sum Numbers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\07_for_loop\\03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880C791F-13CE-4497-9BD9-C284890B3AA0}|03. Sum Numbers\\03. Sum Numbers.csproj|solutionrelative:03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E839F8-B076-4A76-B800-95893AD250C6}|02. First N Numbers Sum\\02. First N Numbers Sum.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\07_for_loop\\02. first n numbers sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E839F8-B076-4A76-B800-95893AD250C6}|02. First N Numbers Sum\\02. First N Numbers Sum.csproj|solutionrelative:02. first n numbers sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4894D-0A8C-406D-91E9-5036F38D6368}|01. Numbers in Range\\01. Numbers in Range.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\07_for_loop\\01. numbers in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4894D-0A8C-406D-91E9-5036F38D6368}|01. Numbers in Range\\01. Numbers in Range.csproj|solutionrelative:01. numbers in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\07. Latin Letters\\Program.cs",
+              "RelativeDocumentMoniker": "07. Latin Letters\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\07. Latin Letters\\Program.cs",
+              "RelativeToolTip": "07. Latin Letters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:21:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\06. Exam Countdown\\Program.cs",
+              "RelativeDocumentMoniker": "06. Exam Countdown\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\06. Exam Countdown\\Program.cs",
+              "RelativeToolTip": "06. Exam Countdown\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:15:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\05. Numbers From 1 to N over 3\\Program.cs",
+              "RelativeDocumentMoniker": "05. Numbers From 1 to N over 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\05. Numbers From 1 to N over 3\\Program.cs",
+              "RelativeToolTip": "05. Numbers From 1 to N over 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:11:41.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\04. Numbers Ending in 7\\Program.cs",
+              "RelativeDocumentMoniker": "04. Numbers Ending in 7\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\04. Numbers Ending in 7\\Program.cs",
+              "RelativeToolTip": "04. Numbers Ending in 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:04:29.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\03. Sum Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\03. Sum Numbers\\Program.cs",
+              "RelativeToolTip": "03. Sum Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:59:54.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\02. First N Numbers Sum\\Program.cs",
+              "RelativeDocumentMoniker": "02. First N Numbers Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\02. First N Numbers Sum\\Program.cs",
+              "RelativeToolTip": "02. First N Numbers Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:08:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\01. Numbers in Range\\Program.cs",
+              "RelativeDocumentMoniker": "01. Numbers in Range\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\07_For_Loop\\01. Numbers in Range\\Program.cs",
+              "RelativeToolTip": "01. Numbers in Range\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:03:37.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\refint\02. First N Numbers Sum.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\07_For_Loop\02. First N Numbers Sum\obj\Debug\net8.0\ref\02. First N Numbers Sum.dll
