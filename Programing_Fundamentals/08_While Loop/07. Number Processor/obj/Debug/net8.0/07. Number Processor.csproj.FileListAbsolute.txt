@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\bin\Debug\net8.0\07. Number Processor.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\bin\Debug\net8.0\07. Number Processor.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\bin\Debug\net8.0\07. Number Processor.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\bin\Debug\net8.0\07. Number Processor.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\bin\Debug\net8.0\07. Number Processor.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\07. Number Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\07. Number Processor.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\07. Number Processor.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\07. Number Processor.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\07. Number Processor.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\07. Number Processor.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\refint\07. Number Processor.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\07. Number Processor.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\07. Number Processor.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\07. Number Processor\obj\Debug\net8.0\ref\07. Number Processor.dll
