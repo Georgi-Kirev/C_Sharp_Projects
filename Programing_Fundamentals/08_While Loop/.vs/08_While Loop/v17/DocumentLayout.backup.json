@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE3250C-36B2-4F29-931C-0E31B9460FE7}|07. Number Processor\\07. Number Processor.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\08_while loop\\07. number processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE3250C-36B2-4F29-931C-0E31B9460FE7}|07. Number Processor\\07. Number Processor.csproj|solutionrelative:07. number processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D08DD69-EB37-45DB-956B-9BC3BA1E4552}|06. Number in Range\\06. Number in Range.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\08_while loop\\06. number in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D08DD69-EB37-45DB-956B-9BC3BA1E4552}|06. Number in Range\\06. Number in Range.csproj|solutionrelative:06. number in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46AFBA0-7CA0-4633-94A1-7D5A690C5CD0}|05. Sum Digits\\05. Sum Digits.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\08_while loop\\05. sum digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46AFBA0-7CA0-4633-94A1-7D5A690C5CD0}|05. Sum Digits\\05. Sum Digits.csproj|solutionrelative:05. sum digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A7BB9B-5312-4641-884C-B377D391DB2A}|04. Sequence 2k \u002B 1\\04. Sequence 2k \u002B 1.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\08_while loop\\04. sequence 2k \u002B 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A7BB9B-5312-4641-884C-B377D391DB2A}|04. Sequence 2k \u002B 1\\04. Sequence 2k \u002B 1.csproj|solutionrelative:04. sequence 2k \u002B 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF129B3D-5630-4BC3-812F-E25AF1A6C0B8}|03. Odd Number\\03. Odd Number.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\08_while loop\\03. odd number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF129B3D-5630-4BC3-812F-E25AF1A6C0B8}|03. Odd Number\\03. Odd Number.csproj|solutionrelative:03. odd number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAC5632-C04D-42EE-880A-E615998741B0}|02. Decreasing Numbers\\02. Decreasing Numbers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\08_while loop\\02. decreasing numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAC5632-C04D-42EE-880A-E615998741B0}|02. Decreasing Numbers\\02. Decreasing Numbers.csproj|solutionrelative:02. decreasing numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD3B882-6923-4493-96E0-12F736ABBF58}|1. Numbers 1 to 100\\1. Numbers 1 to 100.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\08_while loop\\1. numbers 1 to 100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD3B882-6923-4493-96E0-12F736ABBF58}|1. Numbers 1 to 100\\1. Numbers 1 to 100.csproj|solutionrelative:1. numbers 1 to 100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\07. Number Processor\\Program.cs",
+              "RelativeDocumentMoniker": "07. Number Processor\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\07. Number Processor\\Program.cs*",
+              "RelativeToolTip": "07. Number Processor\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:13:01.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\06. Number in Range\\Program.cs",
+              "RelativeDocumentMoniker": "06. Number in Range\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\06. Number in Range\\Program.cs",
+              "RelativeToolTip": "06. Number in Range\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:53:26.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\05. Sum Digits\\Program.cs",
+              "RelativeDocumentMoniker": "05. Sum Digits\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\05. Sum Digits\\Program.cs",
+              "RelativeToolTip": "05. Sum Digits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:17:30.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\04. Sequence 2k \u002B 1\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sequence 2k \u002B 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\04. Sequence 2k \u002B 1\\Program.cs",
+              "RelativeToolTip": "04. Sequence 2k \u002B 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:04:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\03. Odd Number\\Program.cs",
+              "RelativeDocumentMoniker": "03. Odd Number\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\03. Odd Number\\Program.cs",
+              "RelativeToolTip": "03. Odd Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:59:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\02. Decreasing Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "02. Decreasing Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\02. Decreasing Numbers\\Program.cs",
+              "RelativeToolTip": "02. Decreasing Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:57:52.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\1. Numbers 1 to 100\\Program.cs",
+              "RelativeDocumentMoniker": "1. Numbers 1 to 100\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\08_While Loop\\1. Numbers 1 to 100\\Program.cs",
+              "RelativeToolTip": "1. Numbers 1 to 100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:54:46.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

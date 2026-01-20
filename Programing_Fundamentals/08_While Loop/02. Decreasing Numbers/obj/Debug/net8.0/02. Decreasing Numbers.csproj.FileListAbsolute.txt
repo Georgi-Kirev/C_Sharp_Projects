@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\refint\02. Decreasing Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\02. Decreasing Numbers\obj\Debug\net8.0\ref\02. Decreasing Numbers.dll

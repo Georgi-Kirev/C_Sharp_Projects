@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\bin\Debug\net8.0\1. Numbers 1 to 100.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\bin\Debug\net8.0\1. Numbers 1 to 100.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\bin\Debug\net8.0\1. Numbers 1 to 100.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\bin\Debug\net8.0\1. Numbers 1 to 100.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\bin\Debug\net8.0\1. Numbers 1 to 100.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\1. Numbers 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\1. Numbers 1 to 100.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\1. Numbers 1 to 100.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\1. Numbers 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\1. Numbers 1 to 100.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\1. Numbers 1 to 100.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\refint\1. Numbers 1 to 100.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\1. Numbers 1 to 100.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\1. Numbers 1 to 100.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\08_While Loop\1. Numbers 1 to 100\obj\Debug\net8.0\ref\1. Numbers 1 to 100.dll
