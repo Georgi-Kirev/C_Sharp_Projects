@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\bin\Debug\net8.0\07. Special Bonus.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\bin\Debug\net8.0\07. Special Bonus.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\bin\Debug\net8.0\07. Special Bonus.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\bin\Debug\net8.0\07. Special Bonus.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\bin\Debug\net8.0\07. Special Bonus.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\07. Special Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\07. Special Bonus.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\07. Special Bonus.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\07. Special Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\07. Special Bonus.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\07. Special Bonus.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\refint\07. Special Bonus.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\07. Special Bonus.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\07. Special Bonus.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\07. Special Bonus\obj\Debug\net8.0\ref\07. Special Bonus.dll

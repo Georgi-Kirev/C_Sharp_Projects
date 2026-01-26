@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\bin\Debug\net8.0\03. Biggest Number.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\bin\Debug\net8.0\03. Biggest Number.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\bin\Debug\net8.0\03. Biggest Number.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\bin\Debug\net8.0\03. Biggest Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\bin\Debug\net8.0\03. Biggest Number.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\03. Biggest Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\03. Biggest Number.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\03. Biggest Number.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\03. Biggest Number.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\03. Biggest Number.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\03. Biggest Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\refint\03. Biggest Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\03. Biggest Number.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\03. Biggest Number.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\03. Biggest Number\obj\Debug\net8.0\ref\03. Biggest Number.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\bin\Debug\net8.0\06. Special Number.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\bin\Debug\net8.0\06. Special Number.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\bin\Debug\net8.0\06. Special Number.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\bin\Debug\net8.0\06. Special Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\bin\Debug\net8.0\06. Special Number.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\06. Special Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\06. Special Number.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\06. Special Number.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\06. Special Number.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\06. Special Number.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\06. Special Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\refint\06. Special Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\06. Special Number.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\06. Special Number.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\06. Special Number\obj\Debug\net8.0\ref\06. Special Number.dll

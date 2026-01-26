@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\refint\03. Triangle of Stars.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\03. Triangle of Stars\obj\Debug\net8.0\ref\03. Triangle of Stars.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\bin\Debug\net8.0\08. Account Balance.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\bin\Debug\net8.0\08. Account Balance.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\bin\Debug\net8.0\08. Account Balance.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\bin\Debug\net8.0\08. Account Balance.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\bin\Debug\net8.0\08. Account Balance.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\08. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\08. Account Balance.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\08. Account Balance.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\08. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\08. Account Balance.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\08. Account Balance.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\refint\08. Account Balance.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\08. Account Balance.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\08. Account Balance.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\08. Account Balance\obj\Debug\net8.0\ref\08. Account Balance.dll

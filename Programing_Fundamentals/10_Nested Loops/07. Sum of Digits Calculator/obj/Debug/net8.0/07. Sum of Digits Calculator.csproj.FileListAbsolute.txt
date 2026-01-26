@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\refint\07. Sum of Digits Calculator.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\07. Sum of Digits Calculator\obj\Debug\net8.0\ref\07. Sum of Digits Calculator.dll

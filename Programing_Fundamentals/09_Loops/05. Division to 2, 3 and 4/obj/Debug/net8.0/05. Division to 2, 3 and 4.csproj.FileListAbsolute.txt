@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\refint\05. Division to 2, 3 and 4.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\05. Division to 2, 3 and 4\obj\Debug\net8.0\ref\05. Division to 2, 3 and 4.dll
