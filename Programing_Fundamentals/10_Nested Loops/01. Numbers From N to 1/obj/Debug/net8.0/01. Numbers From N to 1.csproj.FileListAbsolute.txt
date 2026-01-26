@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\refint\01. Numbers From N to 1.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\01. Numbers From N to 1\obj\Debug\net8.0\ref\01. Numbers From N to 1.dll

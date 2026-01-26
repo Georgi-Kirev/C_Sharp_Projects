@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\refint\02. Even Powers of 2.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\02. Even Powers of 2\obj\Debug\net8.0\ref\02. Even Powers of 2.dll

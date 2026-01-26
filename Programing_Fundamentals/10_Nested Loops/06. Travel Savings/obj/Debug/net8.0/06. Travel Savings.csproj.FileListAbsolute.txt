@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\refint\06. Travel Savings.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\10_Nested Loops\06. Travel Savings\obj\Debug\net8.0\ref\06. Travel Savings.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\bin\Debug\net8.0\02. Multiplication Table.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\bin\Debug\net8.0\02. Multiplication Table.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\bin\Debug\net8.0\02. Multiplication Table.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\bin\Debug\net8.0\02. Multiplication Table.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\bin\Debug\net8.0\02. Multiplication Table.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\02. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\02. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\02. Multiplication Table.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\02. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\02. Multiplication Table.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\02. Multiplication Table.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\refint\02. Multiplication Table.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\02. Multiplication Table.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\02. Multiplication Table.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\09_Loops\02. Multiplication Table\obj\Debug\net8.0\ref\02. Multiplication Table.dll
