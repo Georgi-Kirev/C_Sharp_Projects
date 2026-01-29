@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF576574-8FEA-4E78-BF20-428A552B37E2}|07. Greater of Two Values\\07. Greater of Two Values.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\11_methods\\07. greater of two values\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF576574-8FEA-4E78-BF20-428A552B37E2}|07. Greater of Two Values\\07. Greater of Two Values.csproj|solutionrelative:07. greater of two values\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8815E7EB-9FC3-415B-BE10-A89714CA1C2E}|03. Printing Triangle\\03. Printing Triangle.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\11_methods\\03. printing triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8815E7EB-9FC3-415B-BE10-A89714CA1C2E}|03. Printing Triangle\\03. Printing Triangle.csproj|solutionrelative:03. printing triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64846E80-B150-4644-B93D-014F40670383}|04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\11_methods\\04. calculate rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64846E80-B150-4644-B93D-014F40670383}|04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj|solutionrelative:04. calculate rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE308FCD-BA1D-4C5A-995C-1690E43779FA}|05. Repeat String\\05. Repeat String.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\11_methods\\05. repeat string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE308FCD-BA1D-4C5A-995C-1690E43779FA}|05. Repeat String\\05. Repeat String.csproj|solutionrelative:05. repeat string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21154A1F-6723-41D5-82A5-ECEAF7A9F620}|06. Math Power\\06. Math Power.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\11_methods\\06. math power\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21154A1F-6723-41D5-82A5-ECEAF7A9F620}|06. Math Power\\06. Math Power.csproj|solutionrelative:06. math power\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A1894A-2FB1-41DD-A5A2-D179E584CCA9}|02. Grades\\02. Grades.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\11_methods\\02. grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A1894A-2FB1-41DD-A5A2-D179E584CCA9}|02. Grades\\02. Grades.csproj|solutionrelative:02. grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F603FE2-6A1F-4987-B34C-3AACA479AB53}|01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\11_methods\\01. sign of integer numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F603FE2-6A1F-4987-B34C-3AACA479AB53}|01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj|solutionrelative:01. sign of integer numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\07. Greater of Two Values\\Program.cs",
+              "RelativeDocumentMoniker": "07. Greater of Two Values\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\07. Greater of Two Values\\Program.cs",
+              "RelativeToolTip": "07. Greater of Two Values\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:19:25.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\06. Math Power\\Program.cs",
+              "RelativeDocumentMoniker": "06. Math Power\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\06. Math Power\\Program.cs",
+              "RelativeToolTip": "06. Math Power\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:19:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\05. Repeat String\\Program.cs",
+              "RelativeDocumentMoniker": "05. Repeat String\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\05. Repeat String\\Program.cs",
+              "RelativeToolTip": "05. Repeat String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:18:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\04. Calculate Rectangle Area\\Program.cs",
+              "RelativeDocumentMoniker": "04. Calculate Rectangle Area\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\04. Calculate Rectangle Area\\Program.cs",
+              "RelativeToolTip": "04. Calculate Rectangle Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:18:19.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\03. Printing Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "03. Printing Triangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\03. Printing Triangle\\Program.cs",
+              "RelativeToolTip": "03. Printing Triangle\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:17:29.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\02. Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02. Grades\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\02. Grades\\Program.cs",
+              "RelativeToolTip": "02. Grades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:08:40.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\01. Sign of Integer Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Sign of Integer Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\11_Methods\\01. Sign of Integer Numbers\\Program.cs",
+              "RelativeToolTip": "01. Sign of Integer Numbers\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:02:29.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
