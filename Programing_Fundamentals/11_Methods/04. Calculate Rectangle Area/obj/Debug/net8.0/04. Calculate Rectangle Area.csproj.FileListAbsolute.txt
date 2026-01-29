@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\04. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\04. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\04. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\04. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\04. Calculate Rectangle Area.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\bin\Debug\net8.0\04. Calculate Rectangle Area.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\bin\Debug\net8.0\04. Calculate Rectangle Area.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\bin\Debug\net8.0\04. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\bin\Debug\net8.0\04. Calculate Rectangle Area.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\bin\Debug\net8.0\04. Calculate Rectangle Area.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\04. Calculate Rectangle Area.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\refint\04. Calculate Rectangle Area.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\04. Calculate Rectangle Area.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\04. Calculate Rectangle Area.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\11_Methods\04. Calculate Rectangle Area\obj\Debug\net8.0\ref\04. Calculate Rectangle Area.dll
