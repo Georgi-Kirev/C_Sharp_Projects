@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\bin\Debug\net8.0\05. Multiply Evens by Odds.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\bin\Debug\net8.0\05. Multiply Evens by Odds.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\bin\Debug\net8.0\05. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\bin\Debug\net8.0\05. Multiply Evens by Odds.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\bin\Debug\net8.0\05. Multiply Evens by Odds.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\05. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\05. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\05. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\05. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\05. Multiply Evens by Odds.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\05. Multiply Evens by Odds.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\refint\05. Multiply Evens by Odds.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\05. Multiply Evens by Odds.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\05. Multiply Evens by Odds.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\05. Multiply Evens by Odds\obj\Debug\net8.0\ref\05. Multiply Evens by Odds.dll

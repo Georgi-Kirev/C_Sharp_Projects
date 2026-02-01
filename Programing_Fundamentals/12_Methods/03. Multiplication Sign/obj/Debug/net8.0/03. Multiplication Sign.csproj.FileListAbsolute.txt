@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\bin\Debug\net8.0\03. Multiplication Sign.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\bin\Debug\net8.0\03. Multiplication Sign.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\bin\Debug\net8.0\03. Multiplication Sign.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\bin\Debug\net8.0\03. Multiplication Sign.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\bin\Debug\net8.0\03. Multiplication Sign.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\03. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\03. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\03. Multiplication Sign.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\03. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\03. Multiplication Sign.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\03. Multiplication Sign.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\refint\03. Multiplication Sign.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\03. Multiplication Sign.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\03. Multiplication Sign.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\03. Multiplication Sign\obj\Debug\net8.0\ref\03. Multiplication Sign.dll
