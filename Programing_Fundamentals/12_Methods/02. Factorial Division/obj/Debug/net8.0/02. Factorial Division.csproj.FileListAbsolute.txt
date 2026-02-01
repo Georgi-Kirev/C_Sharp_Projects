@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\bin\Debug\net8.0\02. Factorial Division.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\bin\Debug\net8.0\02. Factorial Division.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\bin\Debug\net8.0\02. Factorial Division.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\bin\Debug\net8.0\02. Factorial Division.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\bin\Debug\net8.0\02. Factorial Division.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\02. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\02. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\02. Factorial Division.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\02. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\02. Factorial Division.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\02. Factorial Division.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\refint\02. Factorial Division.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\02. Factorial Division.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\02. Factorial Division.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\12_Methods\02. Factorial Division\obj\Debug\net8.0\ref\02. Factorial Division.dll
