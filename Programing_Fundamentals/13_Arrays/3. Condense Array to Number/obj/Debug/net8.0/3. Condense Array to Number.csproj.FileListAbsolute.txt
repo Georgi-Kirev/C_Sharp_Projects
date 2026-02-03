@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\bin\Debug\net8.0\3. Condense Array to Number.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\bin\Debug\net8.0\3. Condense Array to Number.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\bin\Debug\net8.0\3. Condense Array to Number.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\bin\Debug\net8.0\3. Condense Array to Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\bin\Debug\net8.0\3. Condense Array to Number.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\3. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\3. Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\3. Condense Array to Number.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\3. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\3. Condense Array to Number.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\3. Condense Array to Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\refint\3. Condense Array to Number.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\3. Condense Array to Number.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\3. Condense Array to Number.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\3. Condense Array to Number\obj\Debug\net8.0\ref\3. Condense Array to Number.dll

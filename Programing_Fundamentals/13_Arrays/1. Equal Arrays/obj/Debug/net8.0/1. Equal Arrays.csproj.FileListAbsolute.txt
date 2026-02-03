@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\refint\1. Equal Arrays.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\1. Equal Arrays\obj\Debug\net8.0\ref\1. Equal Arrays.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\bin\Debug\net8.0\02. Sum an Array.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\bin\Debug\net8.0\02. Sum an Array.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\bin\Debug\net8.0\02. Sum an Array.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\bin\Debug\net8.0\02. Sum an Array.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\bin\Debug\net8.0\02. Sum an Array.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\02. Sum an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\02. Sum an Array.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\02. Sum an Array.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\02. Sum an Array.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\02. Sum an Array.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\02. Sum an Array.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\refint\02. Sum an Array.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\02. Sum an Array.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\02. Sum an Array.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\02. Sum an Array\obj\Debug\net8.0\ref\02. Sum an Array.dll
