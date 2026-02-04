@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\bin\Debug\net8.0\6. Array Rotation.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\bin\Debug\net8.0\6. Array Rotation.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\bin\Debug\net8.0\6. Array Rotation.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\bin\Debug\net8.0\6. Array Rotation.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\bin\Debug\net8.0\6. Array Rotation.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\6. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\6. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\6. Array Rotation.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\6. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\6. Array Rotation.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\6. Array Rotation.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\refint\6. Array Rotation.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\6. Array Rotation.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\6. Array Rotation.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\6. Array Rotation\obj\Debug\net8.0\ref\6. Array Rotation.dll
