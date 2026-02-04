@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50310C13-F785-43E4-A50D-5404CE2965F0}|04. Magic Sum\\04. Magic Sum.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\04. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50310C13-F785-43E4-A50D-5404CE2965F0}|04. Magic Sum\\04. Magic Sum.csproj|solutionrelative:04. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDE43A2E-F329-4684-86F4-3356D681A142}|7. Top Integers\\7. Top Integers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\7. top integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE43A2E-F329-4684-86F4-3356D681A142}|7. Top Integers\\7. Top Integers.csproj|solutionrelative:7. top integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE16C89-83B4-46C9-BA90-5621B38A6D21}|3. Condense Array to Number\\3. Condense Array to Number.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\3. condense array to number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDE16C89-83B4-46C9-BA90-5621B38A6D21}|3. Condense Array to Number\\3. Condense Array to Number.csproj|solutionrelative:3. condense array to number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9B0A7FB-5848-431E-B4E8-3144CD5796A1}|6. Array Rotation\\6. Array Rotation.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\6. array rotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B0A7FB-5848-431E-B4E8-3144CD5796A1}|6. Array Rotation\\6. Array Rotation.csproj|solutionrelative:6. array rotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D01C7C-7F3E-48B0-82BB-9FF7817765DC}|5. Zig-Zag Arrays\\5. Zig-Zag Arrays.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\5. zig-zag arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D01C7C-7F3E-48B0-82BB-9FF7817765DC}|5. Zig-Zag Arrays\\5. Zig-Zag Arrays.csproj|solutionrelative:5. zig-zag arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50310C13-F785-43E4-A50D-5404CE2965F0}|04. Magic Sum\\4. Magic Sum.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\04. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50310C13-F785-43E4-A50D-5404CE2965F0}|04. Magic Sum\\4. Magic Sum.csproj|solutionrelative:04. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33338439-D03B-455F-9632-BC3A7348A40D}|1. Equal Arrays\\1. Equal Arrays.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\1. equal arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33338439-D03B-455F-9632-BC3A7348A40D}|1. Equal Arrays\\1. Equal Arrays.csproj|solutionrelative:1. equal arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94D5FACB-C71E-47B2-9CC5-358105AD6E37}|2. Common Elements\\2. Common Elements.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\2. common elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94D5FACB-C71E-47B2-9CC5-358105AD6E37}|2. Common Elements\\2. Common Elements.csproj|solutionrelative:2. common elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33338439-D03B-455F-9632-BC3A7348A40D}|1. Equal Arrays\\1. Equal Arrays.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\1. equal arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33338439-D03B-455F-9632-BC3A7348A40D}|1. Equal Arrays\\1. Equal Arrays.csproj|solutionrelative:1. equal arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDE16C89-83B4-46C9-BA90-5621B38A6D21}|3. Condense Array to Number\\3. Condense Array to Number.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\3. condense array to number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE16C89-83B4-46C9-BA90-5621B38A6D21}|3. Condense Array to Number\\3. Condense Array to Number.csproj|solutionrelative:3. condense array to number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC7D9B62-DDDF-4584-BAFA-A1AE0FCE75D6}|01. Day of Week\\01. Day of Week.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\13_arrays\\01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,18 +68,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\7. Top Integers\\Program.cs",
+              "RelativeDocumentMoniker": "7. Top Integers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\7. Top Integers\\Program.cs",
+              "RelativeToolTip": "7. Top Integers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:56:19.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\6. Array Rotation\\Program.cs",
+              "RelativeDocumentMoniker": "6. Array Rotation\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\6. Array Rotation\\Program.cs",
+              "RelativeToolTip": "6. Array Rotation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:36:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\5. Zig-Zag Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "5. Zig-Zag Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\5. Zig-Zag Arrays\\Program.cs",
+              "RelativeToolTip": "5. Zig-Zag Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:45:10.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\04. Magic Sum\\Program.cs",
               "RelativeDocumentMoniker": "04. Magic Sum\\Program.cs",
               "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\04. Magic Sum\\Program.cs",
               "RelativeToolTip": "04. Magic Sum\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T11:50:21.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\3. Condense Array to Number\\Program.cs",
               "RelativeDocumentMoniker": "3. Condense Array to Number\\Program.cs",
@@ -80,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\2. Common Elements\\Program.cs",
               "RelativeDocumentMoniker": "2. Common Elements\\Program.cs",
@@ -93,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\1. Equal Arrays\\Program.cs",
               "RelativeDocumentMoniker": "1. Equal Arrays\\Program.cs",
@@ -106,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\04. Even and Odd Subtraction\\Program.cs",
               "RelativeDocumentMoniker": "04. Even and Odd Subtraction\\Program.cs",
@@ -114,12 +165,11 @@
               "RelativeToolTip": "04. Even and Odd Subtraction\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T08:45:49.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T08:45:49.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\03. Reverse an Array\\Program.cs",
               "RelativeDocumentMoniker": "03. Reverse an Array\\Program.cs",
@@ -127,12 +177,11 @@
               "RelativeToolTip": "03. Reverse an Array\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T07:29:24.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T07:29:24.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\02. Sum an Array\\Program.cs",
               "RelativeDocumentMoniker": "02. Sum an Array\\Program.cs",
@@ -140,12 +189,11 @@
               "RelativeToolTip": "02. Sum an Array\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T07:21:27.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T07:21:27.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\13_Arrays\\01. Day of Week\\Program.cs",
               "RelativeDocumentMoniker": "01. Day of Week\\Program.cs",
@@ -153,8 +201,7 @@
               "RelativeToolTip": "01. Day of Week\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T06:59:10.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T06:59:10.4Z"
             }
           ]
         }

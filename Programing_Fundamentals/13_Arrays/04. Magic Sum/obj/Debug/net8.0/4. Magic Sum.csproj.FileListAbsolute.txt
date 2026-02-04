@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\bin\Debug\net8.0\4. Magic Sum.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\bin\Debug\net8.0\4. Magic Sum.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\bin\Debug\net8.0\4. Magic Sum.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\bin\Debug\net8.0\4. Magic Sum.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\bin\Debug\net8.0\4. Magic Sum.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\4. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\4. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\4. Magic Sum.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\4. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\4. Magic Sum.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\4. Magic Sum.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\refint\4. Magic Sum.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\4. Magic Sum.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\4. Magic Sum.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\13_Arrays\04. Magic Sum\obj\Debug\net8.0\ref\4. Magic Sum.dll
