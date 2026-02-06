@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\bin\Debug\net8.0\02. List of Products.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\bin\Debug\net8.0\02. List of Products.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\bin\Debug\net8.0\02. List of Products.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\bin\Debug\net8.0\02. List of Products.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\bin\Debug\net8.0\02. List of Products.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\02. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\02. List of Products.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\02. List of Products.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\02. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\02. List of Products.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\02. List of Products.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\refint\02. List of Products.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\02. List of Products.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\02. List of Products.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\14_Lists\02. List of Products\obj\Debug\net8.0\ref\02. List of Products.dll
