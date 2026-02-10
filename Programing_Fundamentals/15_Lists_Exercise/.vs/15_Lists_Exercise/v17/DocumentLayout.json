@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\15_Lists_Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{751E228D-6C34-4E96-8198-B019B71B50A7}|05. Bomb Numbers\\05. Bomb Numbers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\15_lists_exercise\\05. bomb numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751E228D-6C34-4E96-8198-B019B71B50A7}|05. Bomb Numbers\\05. Bomb Numbers.csproj|solutionrelative:05. bomb numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0F05930-6324-4069-B975-CE9A791E5D48}|03. List Operations\\03. List Operations.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\15_lists_exercise\\03. list operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0F05930-6324-4069-B975-CE9A791E5D48}|03. List Operations\\03. List Operations.csproj|solutionrelative:03. list operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643C4E83-E504-48F1-9BBE-56278E02CABA}|04. List Manipulation Basics\\04. List Manipulation Basics.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\15_lists_exercise\\04. list manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643C4E83-E504-48F1-9BBE-56278E02CABA}|04. List Manipulation Basics\\04. List Manipulation Basics.csproj|solutionrelative:04. list manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37D5C0EF-FAE0-4A50-8AFA-56E7CB5AB9BB}|02. House Party\\02. House Party.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\15_lists_exercise\\02. house party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3AA4420D-FDD6-4774-8467-9AB4EDD2F453}|01. Train\\01. Train.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\15_lists_exercise\\01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AA4420D-FDD6-4774-8467-9AB4EDD2F453}|01. Train\\01. Train.csproj|solutionrelative:01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751E228D-6C34-4E96-8198-B019B71B50A7}|05. Bomb Numbers\\05. Bomb Numbers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\15_lists_exercise\\05. bomb numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751E228D-6C34-4E96-8198-B019B71B50A7}|05. Bomb Numbers\\05. Bomb Numbers.csproj|solutionrelative:05. bomb numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643C4E83-E504-48F1-9BBE-56278E02CABA}|04. List Manipulation Basics\\04. List Manipulation Basics.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\15_lists_exercise\\04. list manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643C4E83-E504-48F1-9BBE-56278E02CABA}|04. List Manipulation Basics\\04. List Manipulation Basics.csproj|solutionrelative:04. list manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\15_Lists_Exercise\\04. List Manipulation Basics\\Program.cs",
               "RelativeDocumentMoniker": "04. List Manipulation Basics\\Program.cs",
@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T15:04:47.548Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -56,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\15_Lists_Exercise\\05. Bomb Numbers\\Program.cs",
               "RelativeDocumentMoniker": "05. Bomb Numbers\\Program.cs",
@@ -69,20 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\15_Lists_Exercise\\03. List Operations\\Program.cs",
               "RelativeDocumentMoniker": "03. List Operations\\Program.cs",
               "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\15_Lists_Exercise\\03. List Operations\\Program.cs",
               "RelativeToolTip": "03. List Operations\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T11:45:11.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\15_Lists_Exercise\\02. House Party\\Program.cs",
               "RelativeDocumentMoniker": "02. House Party\\Program.cs",
@@ -95,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\15_Lists_Exercise\\01. Train\\Program.cs",
               "RelativeDocumentMoniker": "01. Train\\Program.cs",
