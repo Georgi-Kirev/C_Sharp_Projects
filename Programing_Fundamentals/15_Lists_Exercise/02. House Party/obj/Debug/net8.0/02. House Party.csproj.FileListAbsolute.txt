@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\bin\Debug\net8.0\02. House Party.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\bin\Debug\net8.0\02. House Party.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\bin\Debug\net8.0\02. House Party.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\bin\Debug\net8.0\02. House Party.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\bin\Debug\net8.0\02. House Party.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\02. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\02. House Party.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\02. House Party.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\02. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\02. House Party.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\02. House Party.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\refint\02. House Party.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\02. House Party.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\02. House Party.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\15_Lists_Exercise\02. House Party\obj\Debug\net8.0\ref\02. House Party.dll
