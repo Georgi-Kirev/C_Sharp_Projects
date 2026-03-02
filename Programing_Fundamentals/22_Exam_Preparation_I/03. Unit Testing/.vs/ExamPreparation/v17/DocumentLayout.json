@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\22_Exam_Preparation_I\\03. Unit Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\22_exam_preparation_i\\03. unit testing\\testapp.tests\\numberutilitiestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\numberutilitiestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\22_exam_preparation_i\\03. unit testing\\testapp\\numberutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|solutionrelative:testapp\\numberutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberUtilitiesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\22_Exam_Preparation_I\\03. Unit Testing\\TestApp.Tests\\NumberUtilitiesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\NumberUtilitiesTests.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\22_Exam_Preparation_I\\03. Unit Testing\\TestApp.Tests\\NumberUtilitiesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\NumberUtilitiesTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:09:28.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\22_Exam_Preparation_I\\03. Unit Testing\\TestApp\\NumberUtilities.cs",
+              "RelativeDocumentMoniker": "TestApp\\NumberUtilities.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\22_Exam_Preparation_I\\03. Unit Testing\\TestApp\\NumberUtilities.cs",
+              "RelativeToolTip": "TestApp\\NumberUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:09:29.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

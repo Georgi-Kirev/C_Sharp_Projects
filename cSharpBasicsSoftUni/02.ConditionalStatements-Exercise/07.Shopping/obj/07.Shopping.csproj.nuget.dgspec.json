@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj": {}
+    "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\cSharpBasicsSoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj": {
+    "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\cSharpBasicsSoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj",
+        "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\cSharpBasicsSoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj",
         "projectName": "07.Shopping",
-        "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj",
+        "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\cSharpBasicsSoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj",
         "packagesPath": "C:\\Users\\Georgi Kirev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\C# Basics SoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\obj\\",
+        "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\cSharpBasicsSoftUni\\02.ConditionalStatements-Exercise\\07.Shopping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

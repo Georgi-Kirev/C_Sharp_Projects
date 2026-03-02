@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\bin\Debug\net8.0\02. Average Stock Price in Range.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\bin\Debug\net8.0\02. Average Stock Price in Range.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\bin\Debug\net8.0\02. Average Stock Price in Range.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\bin\Debug\net8.0\02. Average Stock Price in Range.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\bin\Debug\net8.0\02. Average Stock Price in Range.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\02. Average Stock Price in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\02. Average Stock Price in Range.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\02. Average Stock Price in Range.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\02. Average Stock Price in Range.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\02. Average Stock Price in Range.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\02. Average Stock Price in Range.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\refint\02. Average Stock Price in Range.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\02. Average Stock Price in Range.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\02. Average Stock Price in Range.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\02. Average Stock Price in Range\obj\Debug\net8.0\ref\02. Average Stock Price in Range.dll

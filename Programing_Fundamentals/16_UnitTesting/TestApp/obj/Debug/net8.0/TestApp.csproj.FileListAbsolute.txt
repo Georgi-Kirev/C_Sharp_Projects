@@ -1,0 +1,12 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\bin\Debug\net8.0\TestApp.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\bin\Debug\net8.0\TestApp.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\bin\Debug\net8.0\TestApp.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\TestApp.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\TestApp.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\refint\TestApp.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\TestApp.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\16_UnitTesting\TestApp\obj\Debug\net8.0\ref\TestApp.dll

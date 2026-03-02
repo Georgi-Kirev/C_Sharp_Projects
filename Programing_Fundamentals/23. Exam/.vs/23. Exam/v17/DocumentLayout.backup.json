@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\23. Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D46F70-1EC0-44AB-A449-76EBFEA8B459}|02. Average Stock Price in Range\\02. Average Stock Price in Range.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\23. exam\\02. average stock price in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D46F70-1EC0-44AB-A449-76EBFEA8B459}|02. Average Stock Price in Range\\02. Average Stock Price in Range.csproj|solutionrelative:02. average stock price in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B11A8A-B09A-4BA1-AD27-63D9383F1A3A}|01. Nutrition and Caloric Intake Analysis\\01. Nutrition and Caloric Intake Analysis.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\23. exam\\01. nutrition and caloric intake analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B11A8A-B09A-4BA1-AD27-63D9383F1A3A}|01. Nutrition and Caloric Intake Analysis\\01. Nutrition and Caloric Intake Analysis.csproj|solutionrelative:01. nutrition and caloric intake analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\23. Exam\\02. Average Stock Price in Range\\Program.cs",
+              "RelativeDocumentMoniker": "02. Average Stock Price in Range\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\23. Exam\\02. Average Stock Price in Range\\Program.cs",
+              "RelativeToolTip": "02. Average Stock Price in Range\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:10:00.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\23. Exam\\01. Nutrition and Caloric Intake Analysis\\Program.cs",
+              "RelativeDocumentMoniker": "01. Nutrition and Caloric Intake Analysis\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\23. Exam\\01. Nutrition and Caloric Intake Analysis\\Program.cs",
+              "RelativeToolTip": "01. Nutrition and Caloric Intake Analysis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:03:14.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\bin\Debug\net8.0\01. Sum Factorial Even Digits.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\bin\Debug\net8.0\01. Sum Factorial Even Digits.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\bin\Debug\net8.0\01. Sum Factorial Even Digits.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\bin\Debug\net8.0\01. Sum Factorial Even Digits.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\bin\Debug\net8.0\01. Sum Factorial Even Digits.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\01. Sum Factorial Even Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\01. Sum Factorial Even Digits.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\01. Sum Factorial Even Digits.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\01. Sum Factorial Even Digits.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\01. Sum Factorial Even Digits.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\01. Sum Factorial Even Digits.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\refint\01. Sum Factorial Even Digits.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\01. Sum Factorial Even Digits.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\01. Sum Factorial Even Digits.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_I\01. Sum Factorial Even Digits\obj\Debug\net8.0\ref\01. Sum Factorial Even Digits.dll

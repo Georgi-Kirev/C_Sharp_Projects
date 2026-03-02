@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\Nested_Loops_Bonus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4F5E32B-64CC-4D18-AA86-13455C000CF3}|02. Letters Combinations\\02. Letters Combinations.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\nested_loops_bonus\\02. letters combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F5E32B-64CC-4D18-AA86-13455C000CF3}|02. Letters Combinations\\02. Letters Combinations.csproj|solutionrelative:02. letters combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33D61CB8-656A-413F-8CCA-36C7C0B1FECC}|01. Unique PIN Codes\\01. Unique PIN Codes.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\programing_fundamentals\\nested_loops_bonus\\01. unique pin codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33D61CB8-656A-413F-8CCA-36C7C0B1FECC}|01. Unique PIN Codes\\01. Unique PIN Codes.csproj|solutionrelative:01. unique pin codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,14 +32,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\Nested_Loops_Bonus\\02. Letters Combinations\\Program.cs",
+              "RelativeDocumentMoniker": "02. Letters Combinations\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\Nested_Loops_Bonus\\02. Letters Combinations\\Program.cs",
+              "RelativeToolTip": "02. Letters Combinations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:01:05.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\Nested_Loops_Bonus\\01. Unique PIN Codes\\Program.cs",
               "RelativeDocumentMoniker": "01. Unique PIN Codes\\Program.cs",
               "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\Programing_Fundamentals\\Nested_Loops_Bonus\\01. Unique PIN Codes\\Program.cs",
               "RelativeToolTip": "01. Unique PIN Codes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T06:51:07.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T06:51:07.358Z"
             }
           ]
         }
