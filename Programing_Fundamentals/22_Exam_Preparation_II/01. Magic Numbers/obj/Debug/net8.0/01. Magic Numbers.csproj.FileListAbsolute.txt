@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\bin\Debug\net8.0\01. Magic Numbers.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\bin\Debug\net8.0\01. Magic Numbers.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\bin\Debug\net8.0\01. Magic Numbers.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\bin\Debug\net8.0\01. Magic Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\bin\Debug\net8.0\01. Magic Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\01. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\01. Magic Numbers.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\01. Magic Numbers.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\01. Magic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\01. Magic Numbers.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\01. Magic Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\refint\01. Magic Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\01. Magic Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\01. Magic Numbers.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\22_Exam_Preparation_II\01. Magic Numbers\obj\Debug\net8.0\ref\01. Magic Numbers.dll

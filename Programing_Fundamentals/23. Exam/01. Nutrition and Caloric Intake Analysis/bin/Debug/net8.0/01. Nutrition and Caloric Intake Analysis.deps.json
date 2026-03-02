@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "01. Nutrition and Caloric Intake Analysis/1.0.0": {
+        "runtime": {
+          "01. Nutrition and Caloric Intake Analysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01. Nutrition and Caloric Intake Analysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

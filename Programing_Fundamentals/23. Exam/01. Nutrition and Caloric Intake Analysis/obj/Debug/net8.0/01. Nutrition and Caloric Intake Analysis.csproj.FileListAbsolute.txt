@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\bin\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\bin\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\bin\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\bin\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\bin\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\refint\01. Nutrition and Caloric Intake Analysis.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\01. Nutrition and Caloric Intake Analysis.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programing_Fundamentals\23. Exam\01. Nutrition and Caloric Intake Analysis\obj\Debug\net8.0\ref\01. Nutrition and Caloric Intake Analysis.dll

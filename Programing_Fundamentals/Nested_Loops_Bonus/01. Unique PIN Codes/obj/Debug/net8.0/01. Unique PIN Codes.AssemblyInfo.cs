@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Unique PIN Codes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f59caa6274149cd3954d6adb6377437a7e5f8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83c25acd3e3ec07c9388617802c3d35b455e9cf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Unique PIN Codes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Unique PIN Codes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
