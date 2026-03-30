@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\02_Strings - Unit Testing Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\02_strings - unit testing exercise\\testapp.unittests\\textfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\textfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\02_strings - unit testing exercise\\testapp\\textfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\textfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFilterTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\02_Strings - Unit Testing Exercise\\TestApp.UnitTests\\TextFilterTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\TextFilterTests.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\02_Strings - Unit Testing Exercise\\TestApp.UnitTests\\TextFilterTests.cs*",
+              "RelativeToolTip": "TestApp.UnitTests\\TextFilterTests.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:40:23.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\02_Strings - Unit Testing Exercise\\TestApp\\TextFilter.cs",
+              "RelativeDocumentMoniker": "TestApp\\TextFilter.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\02_Strings - Unit Testing Exercise\\TestApp\\TextFilter.cs",
+              "RelativeToolTip": "TestApp\\TextFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:40:18.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

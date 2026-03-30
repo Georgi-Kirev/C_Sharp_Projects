@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\bin\Debug\net8.0\02. Odd Occurrences.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\bin\Debug\net8.0\02. Odd Occurrences.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\bin\Debug\net8.0\02. Odd Occurrences.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\bin\Debug\net8.0\02. Odd Occurrences.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\bin\Debug\net8.0\02. Odd Occurrences.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\02. Odd Occurrences.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\02. Odd Occurrences.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\refint\02. Odd Occurrences.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\02. Odd Occurrences.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\02. Odd Occurrences.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\02. Odd Occurrences\obj\Debug\net8.0\ref\02. Odd Occurrences.dll

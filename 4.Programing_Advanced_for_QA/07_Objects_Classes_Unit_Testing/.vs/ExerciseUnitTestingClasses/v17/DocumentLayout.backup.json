@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\07_Objects_Classes_Unit_Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\07_objects_classes_unit_testing\\testapp.unittests\\planettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\planettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\07_objects_classes_unit_testing\\testapp\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanetTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\07_Objects_Classes_Unit_Testing\\TestApp.UnitTests\\PlanetTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PlanetTests.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\07_Objects_Classes_Unit_Testing\\TestApp.UnitTests\\PlanetTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PlanetTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:17:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\07_Objects_Classes_Unit_Testing\\TestApp\\Planet.cs",
+              "RelativeDocumentMoniker": "TestApp\\Planet.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\07_Objects_Classes_Unit_Testing\\TestApp\\Planet.cs",
+              "RelativeToolTip": "TestApp\\Planet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:17:53.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\bin\Debug\net8.0\05. Challenge the Wedding.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\bin\Debug\net8.0\05. Challenge the Wedding.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\bin\Debug\net8.0\05. Challenge the Wedding.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\bin\Debug\net8.0\05. Challenge the Wedding.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\bin\Debug\net8.0\05. Challenge the Wedding.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\05. Challenge the Wedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\05. Challenge the Wedding.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\05. Challenge the Wedding.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\05. Challenge the Wedding.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\05. Challenge the Wedding.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\05. Challenge the Wedding.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\refint\05. Challenge the Wedding.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\05. Challenge the Wedding.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\05. Challenge the Wedding.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\3.Programing_Fundamentals\Nested_Loops_Bonus\05. Challenge the Wedding\obj\Debug\net8.0\ref\05. Challenge the Wedding.dll

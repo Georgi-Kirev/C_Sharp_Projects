@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\refint\06. A Miner Task.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\06. A Miner Task\obj\Debug\net8.0\ref\06. A Miner Task.dll

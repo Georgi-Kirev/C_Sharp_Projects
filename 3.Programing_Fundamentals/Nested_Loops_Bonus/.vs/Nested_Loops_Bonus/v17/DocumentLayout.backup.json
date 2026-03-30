@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F20C90-EBB6-4DB5-94CE-2F736A8F325D}|05. Challenge the Wedding\\05. Challenge the Wedding.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\3.programing_fundamentals\\nested_loops_bonus\\05. challenge the wedding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F20C90-EBB6-4DB5-94CE-2F736A8F325D}|05. Challenge the Wedding\\05. Challenge the Wedding.csproj|solutionrelative:05. challenge the wedding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8180C3CB-D5FD-4F2E-9CC8-933806938070}|04. Car Number\\04. Car Number.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\3.programing_fundamentals\\nested_loops_bonus\\04. car number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8180C3CB-D5FD-4F2E-9CC8-933806938070}|04. Car Number\\04. Car Number.csproj|solutionrelative:04. car number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8307DE-8C57-46FB-B20D-E3B31D4A174C}|03. Lucky Numbers\\03. Lucky Numbers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\3.programing_fundamentals\\nested_loops_bonus\\03. lucky numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8307DE-8C57-46FB-B20D-E3B31D4A174C}|03. Lucky Numbers\\03. Lucky Numbers.csproj|solutionrelative:03. lucky numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F5E32B-64CC-4D18-AA86-13455C000CF3}|02. Letters Combinations\\02. Letters Combinations.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\3.programing_fundamentals\\nested_loops_bonus\\02. letters combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F5E32B-64CC-4D18-AA86-13455C000CF3}|02. Letters Combinations\\02. Letters Combinations.csproj|solutionrelative:02. letters combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D61CB8-656A-413F-8CCA-36C7C0B1FECC}|01. Unique PIN Codes\\01. Unique PIN Codes.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\3.programing_fundamentals\\nested_loops_bonus\\01. unique pin codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D61CB8-656A-413F-8CCA-36C7C0B1FECC}|01. Unique PIN Codes\\01. Unique PIN Codes.csproj|solutionrelative:01. unique pin codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\05. Challenge the Wedding\\Program.cs",
+              "RelativeDocumentMoniker": "05. Challenge the Wedding\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\05. Challenge the Wedding\\Program.cs",
+              "RelativeToolTip": "05. Challenge the Wedding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:42:48.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\04. Car Number\\Program.cs",
+              "RelativeDocumentMoniker": "04. Car Number\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\04. Car Number\\Program.cs",
+              "RelativeToolTip": "04. Car Number\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T07:41:11.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\03. Lucky Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Lucky Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\03. Lucky Numbers\\Program.cs",
+              "RelativeToolTip": "03. Lucky Numbers\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:39:10.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\02. Letters Combinations\\Program.cs",
+              "RelativeDocumentMoniker": "02. Letters Combinations\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\02. Letters Combinations\\Program.cs",
+              "RelativeToolTip": "02. Letters Combinations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:01:05.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\01. Unique PIN Codes\\Program.cs",
+              "RelativeDocumentMoniker": "01. Unique PIN Codes\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\3.Programing_Fundamentals\\Nested_Loops_Bonus\\01. Unique PIN Codes\\Program.cs",
+              "RelativeToolTip": "01. Unique PIN Codes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T06:51:07.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

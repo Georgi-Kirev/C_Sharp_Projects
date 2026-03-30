@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\refint\01. Count Real Numbers.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\Programming_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\01. Count Real Numbers\obj\Debug\net8.0\ref\01. Count Real Numbers.dll
