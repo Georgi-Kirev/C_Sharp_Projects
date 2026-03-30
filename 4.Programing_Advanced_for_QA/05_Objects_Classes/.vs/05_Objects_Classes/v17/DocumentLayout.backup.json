@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6DBB5A-19BA-4B62-843F-A67D9CC7AC3B}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\04. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6DBB5A-19BA-4B62-843F-A67D9CC7AC3B}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|solutionrelative:04. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2B7873-279B-4339-BB89-97FFCF332DED}|03. Store Boxes\\03. Store Boxes.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\03. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2B7873-279B-4339-BB89-97FFCF332DED}|03. Store Boxes\\03. Store Boxes.csproj|solutionrelative:03. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6DBB5A-19BA-4B62-843F-A67D9CC7AC3B}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\04. vehicle catalogue\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6DBB5A-19BA-4B62-843F-A67D9CC7AC3B}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|solutionrelative:04. vehicle catalogue\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6DBB5A-19BA-4B62-843F-A67D9CC7AC3B}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\04. vehicle catalogue\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6DBB5A-19BA-4B62-843F-A67D9CC7AC3B}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|solutionrelative:04. vehicle catalogue\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6DBB5A-19BA-4B62-843F-A67D9CC7AC3B}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\04. vehicle catalogue\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6DBB5A-19BA-4B62-843F-A67D9CC7AC3B}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|solutionrelative:04. vehicle catalogue\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE6FE79-5DA0-40BD-8650-A5416AA57CE8}|02. Students\\02. Students.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\02. students\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE6FE79-5DA0-40BD-8650-A5416AA57CE8}|02. Students\\02. Students.csproj|solutionrelative:02. students\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2B7873-279B-4339-BB89-97FFCF332DED}|03. Store Boxes\\03. Store Boxes.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\03. store boxes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2B7873-279B-4339-BB89-97FFCF332DED}|03. Store Boxes\\03. Store Boxes.csproj|solutionrelative:03. store boxes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2B7873-279B-4339-BB89-97FFCF332DED}|03. Store Boxes\\03. Store Boxes.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\03. store boxes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2B7873-279B-4339-BB89-97FFCF332DED}|03. Store Boxes\\03. Store Boxes.csproj|solutionrelative:03. store boxes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE6FE79-5DA0-40BD-8650-A5416AA57CE8}|02. Students\\02. Students.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\05_objects_classes\\02. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE6FE79-5DA0-40BD-8650-A5416AA57CE8}|02. Students\\02. Students.csproj|solutionrelative:02. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\04. Vehicle Catalogue\\Catalog.cs",
+              "RelativeDocumentMoniker": "04. Vehicle Catalogue\\Catalog.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\04. Vehicle Catalogue\\Catalog.cs",
+              "RelativeToolTip": "04. Vehicle Catalogue\\Catalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:02:31.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\04. Vehicle Catalogue\\Car.cs",
+              "RelativeDocumentMoniker": "04. Vehicle Catalogue\\Car.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\04. Vehicle Catalogue\\Car.cs",
+              "RelativeToolTip": "04. Vehicle Catalogue\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:00:45.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\04. Vehicle Catalogue\\Truck.cs",
+              "RelativeDocumentMoniker": "04. Vehicle Catalogue\\Truck.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\04. Vehicle Catalogue\\Truck.cs",
+              "RelativeToolTip": "04. Vehicle Catalogue\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:00:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\04. Vehicle Catalogue\\Program.cs",
+              "RelativeDocumentMoniker": "04. Vehicle Catalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\04. Vehicle Catalogue\\Program.cs",
+              "RelativeToolTip": "04. Vehicle Catalogue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:59:38.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\03. Store Boxes\\Box.cs",
+              "RelativeDocumentMoniker": "03. Store Boxes\\Box.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\03. Store Boxes\\Box.cs",
+              "RelativeToolTip": "03. Store Boxes\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:10:12.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\03. Store Boxes\\Item.cs",
+              "RelativeDocumentMoniker": "03. Store Boxes\\Item.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\03. Store Boxes\\Item.cs",
+              "RelativeToolTip": "03. Store Boxes\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:08:17.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\03. Store Boxes\\Program.cs",
+              "RelativeDocumentMoniker": "03. Store Boxes\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\03. Store Boxes\\Program.cs",
+              "RelativeToolTip": "03. Store Boxes\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:07:47.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\02. Students\\Students.cs",
+              "RelativeDocumentMoniker": "02. Students\\Students.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\02. Students\\Students.cs",
+              "RelativeToolTip": "02. Students\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:37:17.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\02. Students\\Program.cs",
+              "RelativeDocumentMoniker": "02. Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\05_Objects_Classes\\02. Students\\Program.cs",
+              "RelativeToolTip": "02. Students\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:36:50.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

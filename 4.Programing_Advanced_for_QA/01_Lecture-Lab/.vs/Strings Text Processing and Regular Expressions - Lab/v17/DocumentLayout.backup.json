@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2394562-B271-4934-A627-F08AFF8B64BA}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\01_lecture-lab\\05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2394562-B271-4934-A627-F08AFF8B64BA}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|solutionrelative:05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78830E3-0B82-4AE3-8284-01C5557710E8}|01. Reverse Strings\\01. Reverse Strings.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\01_lecture-lab\\01. reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78830E3-0B82-4AE3-8284-01C5557710E8}|01. Reverse Strings\\01. Reverse Strings.csproj|solutionrelative:01. reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790CED19-5319-4A41-A010-81E78A1367AC}|02. Repeat Strings\\02. Repeat Strings.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\01_lecture-lab\\02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790CED19-5319-4A41-A010-81E78A1367AC}|02. Repeat Strings\\02. Repeat Strings.csproj|solutionrelative:02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C6B2FB-1282-4036-8D78-0C4D226D4B53}|03. Substring\\03. Substring.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\01_lecture-lab\\03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C6B2FB-1282-4036-8D78-0C4D226D4B53}|03. Substring\\03. Substring.csproj|solutionrelative:03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CB2587-8244-44B1-AF30-BACE76A5508B}|04. Text Filter\\04. Text Filter.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\01_lecture-lab\\04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CB2587-8244-44B1-AF30-BACE76A5508B}|04. Text Filter\\04. Text Filter.csproj|solutionrelative:04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeDocumentMoniker": "05. Digits, Letters and Other\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeToolTip": "05. Digits, Letters and Other\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:37:05.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\04. Text Filter\\Program.cs",
+              "RelativeDocumentMoniker": "04. Text Filter\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\04. Text Filter\\Program.cs",
+              "RelativeToolTip": "04. Text Filter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:58:47.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\03. Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03. Substring\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\03. Substring\\Program.cs",
+              "RelativeToolTip": "03. Substring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:35:12.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\02. Repeat Strings\\Program.cs",
+              "RelativeDocumentMoniker": "02. Repeat Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\02. Repeat Strings\\Program.cs",
+              "RelativeToolTip": "02. Repeat Strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:31:10.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\01. Reverse Strings\\Program.cs",
+              "RelativeDocumentMoniker": "01. Reverse Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\01_Lecture-Lab\\01. Reverse Strings\\Program.cs",
+              "RelativeToolTip": "01. Reverse Strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:04:19.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

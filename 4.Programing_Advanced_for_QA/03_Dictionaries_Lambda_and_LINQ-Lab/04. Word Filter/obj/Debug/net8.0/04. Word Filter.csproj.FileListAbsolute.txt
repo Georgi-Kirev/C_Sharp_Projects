@@ -1,0 +1,15 @@
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.exe
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.deps.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.runtimeconfig.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.AssemblyInfoInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.AssemblyInfo.cs
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.sourcelink.json
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\refint\04. Word Filter.dll
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.pdb
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.genruntimeconfig.cache
+C:\Users\Georgi Kirev\Desktop\IT All\C_Sharp_Projects\4.Programing_Advanced_for_QA\03_Dictionaries_Lambda_and_LINQ-Lab\04. Word Filter\obj\Debug\net8.0\ref\04. Word Filter.dll

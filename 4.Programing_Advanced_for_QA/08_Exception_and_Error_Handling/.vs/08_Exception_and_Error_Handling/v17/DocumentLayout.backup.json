@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\08_Exception_and_Error_Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5562FB1E-2303-462E-8F94-6E7E13C32753}|03. Sum of Integers\\03. Sum of Integers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\08_exception_and_error_handling\\03. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5562FB1E-2303-462E-8F94-6E7E13C32753}|03. Sum of Integers\\03. Sum of Integers.csproj|solutionrelative:03. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22031C03-7215-45EE-AB2C-3C836B46F711}|02. Enter Numbers\\02. Enter Numbers.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\08_exception_and_error_handling\\02. enter numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22031C03-7215-45EE-AB2C-3C836B46F711}|02. Enter Numbers\\02. Enter Numbers.csproj|solutionrelative:02. enter numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8526EF15-8D36-4A0B-A3A9-82DC7DF3C270}|01. Square Root\\01. Square Root.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\08_exception_and_error_handling\\01. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8526EF15-8D36-4A0B-A3A9-82DC7DF3C270}|01. Square Root\\01. Square Root.csproj|solutionrelative:01. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\08_Exception_and_Error_Handling\\03. Sum of Integers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum of Integers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\08_Exception_and_Error_Handling\\03. Sum of Integers\\Program.cs*",
+              "RelativeToolTip": "03. Sum of Integers\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:33:47.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\08_Exception_and_Error_Handling\\02. Enter Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "02. Enter Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\08_Exception_and_Error_Handling\\02. Enter Numbers\\Program.cs",
+              "RelativeToolTip": "02. Enter Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:47:31.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\08_Exception_and_Error_Handling\\01. Square Root\\Program.cs",
+              "RelativeDocumentMoniker": "01. Square Root\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\08_Exception_and_Error_Handling\\01. Square Root\\Program.cs",
+              "RelativeToolTip": "01. Square Root\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:10:07.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

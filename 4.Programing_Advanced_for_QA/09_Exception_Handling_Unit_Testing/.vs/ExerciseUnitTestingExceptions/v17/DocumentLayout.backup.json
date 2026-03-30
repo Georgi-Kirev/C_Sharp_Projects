@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\09_Exception_Handling_Unit_Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCD6F92-582F-47A8-8DBC-18F22EA0F3D2}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\09_exception_handling_unit_testing\\testapp.unittests\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCD6F92-582F-47A8-8DBC-18F22EA0F3D2}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D92E3-A0B1-4AC9-91EF-2B6DA3CF3AA6}|TestApp\\TestApp.csproj|c:\\users\\georgi kirev\\desktop\\it all\\c_sharp_projects\\4.programing_advanced_for_qa\\09_exception_handling_unit_testing\\testapp\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D92E3-A0B1-4AC9-91EF-2B6DA3CF3AA6}|TestApp\\TestApp.csproj|solutionrelative:testapp\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\09_Exception_Handling_Unit_Testing\\TestApp.UnitTests\\ExceptionTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ExceptionTests.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\09_Exception_Handling_Unit_Testing\\TestApp.UnitTests\\ExceptionTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ExceptionTests.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAUwDwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:44:38.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\09_Exception_Handling_Unit_Testing\\TestApp\\Exceptions.cs",
+              "RelativeDocumentMoniker": "TestApp\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\09_Exception_Handling_Unit_Testing\\TestApp\\Exceptions.cs",
+              "RelativeToolTip": "TestApp\\Exceptions.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv3oAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:44:35.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
