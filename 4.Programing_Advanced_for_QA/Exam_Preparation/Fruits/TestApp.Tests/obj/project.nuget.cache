@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRA9ryGdALY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\Exam_Preparation\\Fruits\\TestApp.Tests\\TestApp.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\Georgi Kirev\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TestApp.Tests depends on NUnit.Analyzers (>= 3.3.0) but NUnit.Analyzers 3.3.0 was not found. NUnit.Analyzers 3.6.1 was resolved instead.",
+      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\Exam_Preparation\\Fruits\\TestApp.Tests\\TestApp.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\Exam_Preparation\\Fruits\\TestApp.Tests\\TestApp.Tests.csproj",
+      "libraryId": "NUnit.Analyzers",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TestApp.Tests depends on NUnit3TestAdapter (>= 4.2.1) but NUnit3TestAdapter 4.2.1 was not found. NUnit3TestAdapter 4.4.2 was resolved instead.",
+      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\Exam_Preparation\\Fruits\\TestApp.Tests\\TestApp.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\C_Sharp_Projects\\4.Programing_Advanced_for_QA\\Exam_Preparation\\Fruits\\TestApp.Tests\\TestApp.Tests.csproj",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

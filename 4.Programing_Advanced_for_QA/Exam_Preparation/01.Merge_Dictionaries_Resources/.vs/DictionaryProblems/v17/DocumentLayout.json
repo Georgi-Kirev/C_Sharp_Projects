@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\01.Merge_Dictionaries_Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30ACFD80-A560-434F-B1F1-EB0308B1A281}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\georgi kirev\\desktop\\01.merge_dictionaries_resources\\testapp.tests\\mergedictionariestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ACFD80-A560-434F-B1F1-EB0308B1A281}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\mergedictionariestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C52EFD2-41BD-4401-A054-CD1E7921029D}|TestApp\\TestApp.csproj|c:\\users\\georgi kirev\\desktop\\01.merge_dictionaries_resources\\testapp\\mergedictionaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C52EFD2-41BD-4401-A054-CD1E7921029D}|TestApp\\TestApp.csproj|solutionrelative:testapp\\mergedictionaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MergeDictionaries.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\01.Merge_Dictionaries_Resources\\TestApp\\MergeDictionaries.cs",
+              "RelativeDocumentMoniker": "TestApp\\MergeDictionaries.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\01.Merge_Dictionaries_Resources\\TestApp\\MergeDictionaries.cs",
+              "RelativeToolTip": "TestApp\\MergeDictionaries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:02:40.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MergeDictionariesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\01.Merge_Dictionaries_Resources\\TestApp.Tests\\MergeDictionariesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\MergeDictionariesTests.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\01.Merge_Dictionaries_Resources\\TestApp.Tests\\MergeDictionariesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\MergeDictionariesTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwHEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:02:43.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
